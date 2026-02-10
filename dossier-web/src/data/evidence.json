@@ -1,0 +1,74 @@
+[
+  {
+    "id": "creation-stats",
+    "title": "Channel Creation Logs",
+    "category": "Data",
+    "type": "csv",
+    "path": "/evidence/2025.06-creation.channel.kareltest/channel images.csv",
+    "description": "Timestamped log of channel image creation, proving account activity start."
+  },
+  {
+    "id": "watch-history",
+    "title": "Watch History (Pre-Termination)",
+    "category": "Data",
+    "type": "html",
+    "path": "/evidence/2025.06-creation.channel.kareltest/watch-history.html",
+    "description": "Forensic export of watch history proving legitimate user behavior."
+  },
+  {
+    "id": "ocr-combi-demo",
+    "title": "OCR Combi Demo Video",
+    "category": "Video",
+    "type": "video",
+    "path": "/evidence/2025.07-workplace.marketplace/content-OCR combi.webm",
+    "description": "Demonstration of the OCR Combi tool, showing legitimate OAuth usage."
+  },
+  {
+    "id": "playlist-collector-demo",
+    "title": "Playlist Collector Demo",
+    "category": "Video",
+    "type": "video",
+    "path": "/evidence/2025.07-workplace.marketplace/content-YouTube Playlist Collector 1.0 verification vi.webm",
+    "description": "Verification video for the YouTube Playlist Collector tool."
+  },
+  {
+    "id": "verification-requirements",
+    "title": "Google Cloud Verification Requirements",
+    "category": "Document",
+    "type": "html",
+    "path": "/evidence/2025.07-workplace.marketplace/proof-Verification requirements - Google Cloud Platform Console Help.html",
+    "description": "Official Google Cloud documentation regarding app verification."
+  },
+  {
+    "id": "ai-studio-reader-demo",
+    "title": "AI Studio Reader Demo",
+    "category": "Video",
+    "type": "video",
+    "path": "/evidence/2025.08.b-cws/content-aistudioreader.webm",
+    "description": "Demonstration of the AI Studio Reader extension."
+  },
+  {
+    "id": "termination-email",
+    "title": "First Termination Email",
+    "category": "Screenshot",
+    "type": "image",
+    "path": "/evidence/2025.08.15 ChannelTermination-firstEmail.png",
+    "description": "The initial automated email from YouTube notifying of channel termination."
+  },
+  {
+    "id": "appeal-denied-email",
+    "title": "Appeal Denied Notification",
+    "category": "Screenshot",
+    "type": "image",
+    "path": "/evidence/2025.08.16 ChannelTermination-appealDenied-1.png",
+    "description": "Screenshot of the first appeal rejection."
+  },
+  {
+    "id": "letter-alphabet-google",
+    "title": "Letter of Concern to Alphabet",
+    "category": "Document",
+    "type": "pdf",
+    "path": "/evidence/2026.01-Comm_Google.Alphabet/2026.01.08-__Letter_of_Concern_Alphabet_Google__.pdf",
+    "description": "Formal legal correspondence sent to Alphabet/Google HQ."
+  }
+]

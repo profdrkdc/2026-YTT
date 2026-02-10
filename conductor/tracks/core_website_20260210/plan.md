@@ -12,7 +12,7 @@
 ## Phase 2: Content Rendering & Timeline
 - [x] Task: Implement Markdown rendering [fe53636]
     - [x] Create a component to render Markdown content
-- [~] Task: Build the Timeline component
-    - [ ] Design the timeline UI
-    - [ ] Implement data fetching from timeline documents
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Content Rendering & Timeline' (Protocol in workflow.md)
+- [x] Task: Build the Timeline component [e23bd0a]
+    - [x] Design the timeline UI
+    - [x] Implement data fetching from timeline documents
+- [~] Task: Conductor - User Manual Verification 'Phase 2: Content Rendering & Timeline' (Protocol in workflow.md)

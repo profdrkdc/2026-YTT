@@ -1,11 +1,27 @@
 [
   {
+    "date": "2025-06-21",
+    "title": "Channel Creation",
+    "description": "YouTube channel '@KarelTest' established for documenting development of Google Workspace add-ons and Chrome extensions.",
+    "category": "Status",
+    "status": "Blue",
+    "evidenceId": "creation-stats"
+  },
+  {
     "date": "2025-08-10",
     "title": "Good Faith Reporting: Malicious Ads",
     "description": "Reported a deepfake crypto scam featuring the Belgian PM. YouTube found 'no problem', establishing a contrast with their harsh action against my channel.",
     "category": "Status",
     "status": "Blue",
     "evidenceId": "malicious-ad-report"
+  },
+  {
+    "date": "2025-08-14",
+    "title": "Educational Content Uploaded",
+    "description": "Uploaded demonstration videos for Workspace Marketplace and Chrome Web Store (CWS) listings as part of the official verification process.",
+    "category": "Status",
+    "status": "Blue",
+    "evidenceId": "ocr-combi-demo"
   },
   {
     "date": "2025-08-15",
@@ -39,21 +55,6 @@
     "evidenceId": "x-escalation-thread"
   },
   {
-    "date": "2025-09-08",
-    "title": "Direct X Inquiry to TeamYouTube",
-    "description": "Public post explaining the misinterpretation of developer tools as 'harmful software'.",
-    "category": "Escalation",
-    "status": "Yellow",
-    "evidenceId": "x-escalation-data"
-  },
-  {
-    "date": "2025-08-20",
-    "title": "Formal Letter to Google Ireland",
-    "description": "Sent a formal written letter to Google Ireland HQ in Dublin regarding the lack of transparency.",
-    "category": "Legal",
-    "status": "Blue"
-  },
-  {
     "date": "2025-09-03",
     "title": "Third Detailed Appeal",
     "description": "Submitted a highly detailed appeal with forensic analysis of possible causes.",
@@ -66,6 +67,14 @@
     "description": "Standard denial email received. No context or reason provided despite detailed explanation.",
     "category": "Decision",
     "status": "Red"
+  },
+  {
+    "date": "2025-09-08",
+    "title": "Direct X Inquiry to TeamYouTube",
+    "description": "Public post explaining the misinterpretation of developer tools as 'harmful software'.",
+    "category": "Escalation",
+    "status": "Yellow",
+    "evidenceId": "x-escalation-data"
   },
   {
     "date": "2025-10-18",

@@ -1,0 +1,7 @@
+{
+  "id": "evidence_repository_20260210",
+  "name": "Evidence Repository & Proof Linking",
+  "description": "Integration of forensic evidence (videos, logs, CSVs) into the interactive dossier.",
+  "status": "PENDING",
+  "created_at": "2026-02-10T23:15:00Z"
+}

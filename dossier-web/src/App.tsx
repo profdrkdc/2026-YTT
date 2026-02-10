@@ -2,6 +2,7 @@ import { Box, Container } from '@mui/material';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import TimelinePage from './pages/TimelinePage';
 
 function App() {
   return (
@@ -13,12 +14,17 @@ function App() {
       }}
     >
       <Navbar />
-      <Container component="main" sx={{ mt: 4, mb: 4, flexGrow: 1 }} maxWidth="lg">
+      <Box component="main" sx={{ flexGrow: 1 }}>
         <Routes>
-          <Route path="/" element={<div><h1>Home</h1><p>Welcome to the 2026-YTT Dossier.</p></div>} />
-          <Route path="/timeline" element={<div><h1>Timeline</h1><p>Interactive timeline coming soon.</p></div>} />
+          <Route path="/" element={
+            <Container sx={{ mt: 4, mb: 4 }} maxWidth="lg">
+              <h1>Home</h1>
+              <p>Welcome to the 2026-YTT Dossier.</p>
+            </Container>
+          } />
+          <Route path="/timeline" element={<TimelinePage />} />
         </Routes>
-      </Container>
+      </Box>
       <Footer />
     </Box>
   );

@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2025-08-15",
+    "title": "Unexpected Termination",
+    "description": "YouTube channel '@KarelTest' terminated for 'Spam, deceptive practices and scams'. No specific reason or video cited.",
+    "category": "Termination",
+    "status": "Red"
+  },
+  {
+    "date": "2025-08-15",
+    "title": "First Appeal Submitted",
+    "description": "Initial appeal submitted via web form, expressing confusion and requesting clarification.",
+    "category": "Appeal",
+    "status": "Yellow"
+  },
+  {
+    "date": "2025-08-16",
+    "title": "Appeal Denied",
+    "description": "YouTube confirms termination after review, again without providing specific details.",
+    "category": "Decision",
+    "status": "Red"
+  },
+  {
+    "date": "2025-08-16",
+    "title": "Public Escalation (X/Twitter)",
+    "description": "Reached out to @TeamYouTube on X, suggesting a potential brand violation and offering to rename the channel.",
+    "category": "Escalation",
+    "status": "Yellow"
+  },
+  {
+    "date": "2025-08-20",
+    "title": "Formal Letter to Google Ireland",
+    "description": "Sent a formal written letter to Google Ireland HQ in Dublin regarding the lack of transparency.",
+    "category": "Legal",
+    "status": "Blue"
+  },
+  {
+    "date": "2025-09-03",
+    "title": "Third Detailed Appeal",
+    "description": "Submitted a highly detailed appeal with forensic analysis of possible causes.",
+    "category": "Appeal",
+    "status": "Yellow"
+  },
+  {
+    "date": "2025-09-03",
+    "title": "Final Appeal Denial",
+    "description": "Standard denial email received. No context or reason provided despite detailed explanation.",
+    "category": "Decision",
+    "status": "Red"
+  },
+  {
+    "date": "2025-10-18",
+    "title": "ODS Case Opened",
+    "description": "Case initiated via Out-of-Court Dispute Settlement (ODS) mechanism.",
+    "category": "Legal",
+    "status": "Blue"
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Letter of Concern to Alphabet/Google",
+    "description": "Updated Letter of Concern sent to Alphabet/Google legal department.",
+    "category": "Legal",
+    "status": "Blue"
+  }
+]

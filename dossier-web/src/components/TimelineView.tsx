@@ -48,19 +48,26 @@ const getCategoryIcon = (category: string) => {
   }
 };
 
+import { useTheme, useMediaQuery } from '@mui/material';
+
 const TimelineView = ({ events }: TimelineViewProps) => {
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
+
   return (
-    <Timeline position="alternate">
+    <Timeline position={isMobile ? 'right' : 'alternate'}>
       {events.map((event, index) => (
         <TimelineItem key={index}>
-          <TimelineOppositeContent
-            sx={{ m: 'auto 0' }}
-            align="right"
-            variant="body2"
-            color="text.secondary"
-          >
-            {event.date}
-          </TimelineOppositeContent>
+          {!isMobile && (
+            <TimelineOppositeContent
+              sx={{ m: 'auto 0' }}
+              align="right"
+              variant="body2"
+              color="text.secondary"
+            >
+              {event.date}
+            </TimelineOppositeContent>
+          )}
           <TimelineSeparator>
             <TimelineConnector />
             <TimelineDot color={getStatusColor(event.status) as any}>
@@ -70,6 +77,11 @@ const TimelineView = ({ events }: TimelineViewProps) => {
           </TimelineSeparator>
           <TimelineContent sx={{ py: '12px', px: 2 }}>
             <Paper elevation={3} sx={{ p: 2, textAlign: 'left' }}>
+              {isMobile && (
+                <Typography variant="caption" color="text.secondary" display="block">
+                  {event.date}
+                </Typography>
+              )}
               <Typography variant="h6" component="span">
                 {event.title}
               </Typography>

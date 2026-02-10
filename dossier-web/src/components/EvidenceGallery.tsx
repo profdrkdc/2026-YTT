@@ -102,14 +102,16 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
 
       <Grid container spacing={3}>
         {filteredEvidence.map(item => (
-          <Grid item xs={12} md={item.type === 'csv' ? 12 : 6} key={item.id}>
+          <Grid item xs={12} sm={item.type === 'csv' ? 12 : 6} md={item.type === 'csv' ? 12 : 6} key={item.id}>
             <Box 
               ref={(el: HTMLDivElement | null) => (itemRefs.current[item.id] = el)}
               sx={{ 
                 height: '100%',
                 border: item.id === highlightId ? '2px solid #1976d2' : '2px solid transparent',
+                backgroundColor: item.id === highlightId ? 'rgba(25, 118, 210, 0.04)' : 'transparent',
                 borderRadius: 2,
-                transition: 'border 0.3s ease'
+                transition: 'all 0.3s ease',
+                p: item.id === highlightId ? 1 : 0
               }}
             >
               {renderEvidenceItem(item)}

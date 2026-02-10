@@ -7,11 +7,13 @@ import {
   TimelineDot, 
   TimelineOppositeContent 
 } from '@mui/lab';
-import { Typography, Paper, Box } from '@mui/material';
+import { Typography, Paper, Box, Button } from '@mui/material';
 import GavelIcon from '@mui/icons-material/Gavel';
 import WarningIcon from '@mui/icons-material/Warning';
 import ErrorIcon from '@mui/icons-material/Error';
 import InfoIcon from '@mui/icons-material/Info';
+import VisibilityIcon from '@mui/icons-material/Visibility';
+import { Link as RouterLink } from 'react-router-dom';
 
 export interface TimelineEvent {
   date: string;
@@ -19,6 +21,7 @@ export interface TimelineEvent {
   description: string;
   category: string;
   status: string;
+  evidenceId?: string;
 }
 
 interface TimelineViewProps {
@@ -73,7 +76,18 @@ const TimelineView = ({ events }: TimelineViewProps) => {
               <Typography variant="body2" color="text.secondary">
                 {event.category}
               </Typography>
-              <Typography sx={{ mt: 1 }}>{event.description}</Typography>
+              <Typography sx={{ mt: 1, mb: event.evidenceId ? 2 : 0 }}>{event.description}</Typography>
+              {event.evidenceId && (
+                <Button 
+                  variant="outlined" 
+                  size="small" 
+                  startIcon={<VisibilityIcon />}
+                  component={RouterLink}
+                  to={`/evidence?id=${event.evidenceId}`}
+                >
+                  View Proof
+                </Button>
+              )}
             </Paper>
           </TimelineContent>
         </TimelineItem>

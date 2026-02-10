@@ -1,4 +1,5 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { Box, Typography, Grid, Chip, Stack, Button } from '@mui/material';
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 import VideoPlayer from './VideoPlayer';
@@ -19,7 +20,25 @@ interface EvidenceGalleryProps {
 }
 
 const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
+  const [searchParams] = useSearchParams();
+  const highlightId = searchParams.get('id');
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const itemRefs = useRef<Record<string, HTMLDivElement | null>>({});
+
+  useEffect(() => {
+    if (highlightId && itemRefs.current[highlightId]) {
+      // Clear category filter if the highlighted item is in a different category
+      const item = evidence.find(e => e.id === highlightId);
+      if (item && selectedCategory && item.category !== selectedCategory) {
+        setSelectedCategory(null);
+      }
+      
+      // Delay slightly to allow filtering to resolve
+      setTimeout(() => {
+        itemRefs.current[highlightId]?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 100);
+    }
+  }, [highlightId, evidence, selectedCategory]);
 
   const categories = useMemo(() => {
     const cats = new Set(evidence.map(item => item.category));
@@ -84,7 +103,17 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
       <Grid container spacing={3}>
         {filteredEvidence.map(item => (
           <Grid item xs={12} md={item.type === 'csv' ? 12 : 6} key={item.id}>
-            {renderEvidenceItem(item)}
+            <Box 
+              ref={(el: HTMLDivElement | null) => (itemRefs.current[item.id] = el)}
+              sx={{ 
+                height: '100%',
+                border: item.id === highlightId ? '2px solid #1976d2' : '2px solid transparent',
+                borderRadius: 2,
+                transition: 'border 0.3s ease'
+              }}
+            >
+              {renderEvidenceItem(item)}
+            </Box>
           </Grid>
         ))}
       </Grid>

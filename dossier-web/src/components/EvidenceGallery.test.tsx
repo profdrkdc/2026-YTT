@@ -1,6 +1,7 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import EvidenceGallery from './EvidenceGallery';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
+import { MemoryRouter } from 'react-router-dom';
 
 const theme = createTheme();
 
@@ -26,9 +27,11 @@ const mockEvidence = [
 describe('EvidenceGallery', () => {
   it('renders evidence items', () => {
     render(
-      <ThemeProvider theme={theme}>
-        <EvidenceGallery evidence={mockEvidence} />
-      </ThemeProvider>
+      <MemoryRouter>
+        <ThemeProvider theme={theme}>
+          <EvidenceGallery evidence={mockEvidence} />
+        </ThemeProvider>
+      </MemoryRouter>
     );
     
     expect(screen.getByText(/Video Proof/i)).toBeInTheDocument();
@@ -37,9 +40,11 @@ describe('EvidenceGallery', () => {
 
   it('filters by category', () => {
     render(
-      <ThemeProvider theme={theme}>
-        <EvidenceGallery evidence={mockEvidence} />
-      </ThemeProvider>
+      <MemoryRouter>
+        <ThemeProvider theme={theme}>
+          <EvidenceGallery evidence={mockEvidence} />
+        </ThemeProvider>
+      </MemoryRouter>
     );
     
     // Find the 'Screenshot' filter chip/button

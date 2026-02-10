@@ -4,7 +4,8 @@
     "title": "Unexpected Termination",
     "description": "YouTube channel '@KarelTest' terminated for 'Spam, deceptive practices and scams'. No specific reason or video cited.",
     "category": "Termination",
-    "status": "Red"
+    "status": "Red",
+    "evidenceId": "termination-email"
   },
   {
     "date": "2025-08-15",
@@ -18,7 +19,8 @@
     "title": "Appeal Denied",
     "description": "YouTube confirms termination after review, again without providing specific details.",
     "category": "Decision",
-    "status": "Red"
+    "status": "Red",
+    "evidenceId": "appeal-denied-email"
   },
   {
     "date": "2025-08-16",
@@ -60,6 +62,7 @@
     "title": "Letter of Concern to Alphabet/Google",
     "description": "Updated Letter of Concern sent to Alphabet/Google legal department.",
     "category": "Legal",
-    "status": "Blue"
+    "status": "Blue",
+    "evidenceId": "letter-alphabet-google"
   }
 ]

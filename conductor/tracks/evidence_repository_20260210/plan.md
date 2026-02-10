@@ -22,4 +22,4 @@
 - [x] Task: Implement deep linking for evidence [7802b69]
     - [x] Set up routes like `/evidence?id=:id`
 - [x] Task: Final Polish & Mobile Optimization [534bb62]
-- [~] Task: Conductor - User Manual Verification 'Phase 3: Integration & Deep Linking'
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Integration & Deep Linking'

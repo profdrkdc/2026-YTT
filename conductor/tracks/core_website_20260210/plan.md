@@ -9,7 +9,7 @@
     - [x] Create basic Navbar and Footer
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding & Setup' (Protocol in workflow.md)
 
-## Phase 2: Content Rendering & Timeline
+## Phase 2: Content Rendering & Timeline [checkpoint: ec76e4e]
 - [x] Task: Implement Markdown rendering [fe53636]
     - [x] Create a component to render Markdown content
 - [x] Task: Build the Timeline component [e23bd0a]

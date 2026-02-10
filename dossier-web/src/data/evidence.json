@@ -16,6 +16,14 @@
     "description": "Forensic export of watch history proving legitimate user behavior."
   },
   {
+    "id": "malicious-ad-report",
+    "title": "Malicious Ad Incident Report",
+    "category": "Document",
+    "type": "html",
+    "path": "/evidence/2025.08.a-report-malicious-advertisement/incident_report.md",
+    "description": "Report documenting YouTube's failure to remove a deepfake scam ad reported by the user."
+  },
+  {
     "id": "ocr-combi-demo",
     "title": "OCR Combi Demo Video",
     "category": "Video",
@@ -64,14 +72,6 @@
     "description": "Screenshot of the first appeal rejection."
   },
   {
-    "id": "malicious-ad-report",
-    "title": "Malicious Ad Incident Report",
-    "category": "Document",
-    "type": "html",
-    "path": "/evidence/2025.08.a-report-malicious-advertisement/incident_report.md",
-    "description": "Report documenting YouTube's failure to remove a deepfake scam ad reported by the user."
-  },
-  {
     "id": "x-escalation-thread",
     "title": "X/Twitter Escalation Thread",
     "category": "Social",
@@ -88,14 +88,6 @@
     "description": "Raw data of the X interaction highlighting the 'harmful software' misinterpretation."
   },
   {
-    "id": "letter-alphabet-google",
-    "title": "Letter of Concern to Alphabet",
-    "category": "Document",
-    "type": "pdf",
-    "path": "/evidence/2026.01-Comm_Google.Alphabet/2026.01.08-__Letter_of_Concern_Alphabet_Google__.pdf",
-    "description": "Formal legal correspondence sent to Alphabet/Google HQ."
-  },
-  {
     "id": "ods-ruling-87",
     "title": "ODS Ruling #2025-012487-YT",
     "category": "Legal",
@@ -110,5 +102,13 @@
     "type": "pdf",
     "path": "/evidence/2025.10-ODS_case/2025.12.16-beslissingen/Appeal_fdcce33d-a92b-4fcb-8b96-a4144e7e7b4c.pdf",
     "description": "Second ODS ruling in favor of the user, confirming systemic lack of transparency from YouTube."
+  },
+  {
+    "id": "letter-alphabet-google",
+    "title": "Letter of Concern to Alphabet",
+    "category": "Document",
+    "type": "pdf",
+    "path": "/evidence/2026.01-Comm_Google.Alphabet/2026.01.08-__Letter_of_Concern_Alphabet_Google__.pdf",
+    "description": "Formal legal correspondence sent to Alphabet/Google HQ."
   }
 ]

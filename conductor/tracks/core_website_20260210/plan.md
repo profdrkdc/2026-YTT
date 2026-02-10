@@ -1,6 +1,6 @@
 # Implementation Plan: Core Website & Interactive Timeline
 
-## Phase 1: Scaffolding & Setup
+## Phase 1: Scaffolding & Setup [checkpoint: 9a21be1]
 - [x] Task: Initialize Vite project with React and TypeScript [e4465c9]
     - [x] Run pnpm create vite
     - [x] Install dependencies (MUI, React Router, Markdown parser)

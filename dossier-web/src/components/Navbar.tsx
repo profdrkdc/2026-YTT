@@ -28,6 +28,9 @@ const Navbar = () => {
           <Button color="inherit" component={RouterLink} to="/timeline">
             Timeline
           </Button>
+          <Button color="inherit" component={RouterLink} to="/evidence">
+            Evidence
+          </Button>
         </Toolbar>
       </Container>
     </AppBar>

@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import TimelinePage from './pages/TimelinePage';
+import EvidencePage from './pages/EvidencePage';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             </Container>
           } />
           <Route path="/timeline" element={<TimelinePage />} />
+          <Route path="/evidence" element={<EvidencePage />} />
         </Routes>
       </Box>
       <Footer />

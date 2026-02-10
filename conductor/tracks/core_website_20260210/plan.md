@@ -7,7 +7,7 @@
 - [x] Task: Configure basic layout and theme [6b5ce3d]
     - [x] Set up Material Design theme
     - [x] Create basic Navbar and Footer
-- [~] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding & Setup' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding & Setup' (Protocol in workflow.md)
 
 ## Phase 2: Content Rendering & Timeline
 - [ ] Task: Implement Markdown rendering

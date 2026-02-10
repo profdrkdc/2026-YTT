@@ -1,10 +1,10 @@
 # Implementation Plan: Core Website & Interactive Timeline
 
 ## Phase 1: Scaffolding & Setup
-- [ ] Task: Initialize Vite project with React and TypeScript
-    - [ ] Run pnpm create vite
-    - [ ] Install dependencies (MUI, React Router, Markdown parser)
-- [ ] Task: Configure basic layout and theme
+- [x] Task: Initialize Vite project with React and TypeScript [e4465c9]
+    - [x] Run pnpm create vite
+    - [x] Install dependencies (MUI, React Router, Markdown parser)
+- [~] Task: Configure basic layout and theme
     - [ ] Set up Material Design theme
     - [ ] Create basic Navbar and Footer
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding & Setup' (Protocol in workflow.md)

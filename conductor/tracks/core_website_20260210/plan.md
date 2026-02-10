@@ -15,4 +15,4 @@
 - [x] Task: Build the Timeline component [e23bd0a]
     - [x] Design the timeline UI
     - [x] Implement data fetching from timeline documents
-- [~] Task: Conductor - User Manual Verification 'Phase 2: Content Rendering & Timeline' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Content Rendering & Timeline' (Protocol in workflow.md)

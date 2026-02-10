@@ -7,7 +7,7 @@
     - [x] Set up public assets or dynamic imports for media files
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Infrastructure & Data Mapping'
 
-## Phase 2: Evidence Gallery & Components
+## Phase 2: Evidence Gallery & Components [checkpoint: ef139c9]
 - [x] Task: Build Media Preview components [1690fd7]
     - [x] Create `VideoPlayer.tsx` and `ImageLightbox.tsx`
 - [x] Task: Implement CSV to Table renderer [538ab02]

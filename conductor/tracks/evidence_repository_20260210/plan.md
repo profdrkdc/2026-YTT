@@ -17,9 +17,9 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Evidence Gallery & Components'
 
 ## Phase 3: Integration & Deep Linking
-- [ ] Task: Connect Timeline to Evidence
-    - [ ] Add "View Proof" buttons to `TimelineView` components
-- [ ] Task: Implement deep linking for evidence
-    - [ ] Set up routes like `/evidence/:id`
-- [ ] Task: Final Polish & Mobile Optimization
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Integration & Deep Linking'
+- [x] Task: Connect Timeline to Evidence [7802b69]
+    - [x] Add "View Proof" buttons to `TimelineView` components
+- [x] Task: Implement deep linking for evidence [7802b69]
+    - [x] Set up routes like `/evidence?id=:id`
+- [x] Task: Final Polish & Mobile Optimization [534bb62]
+- [~] Task: Conductor - User Manual Verification 'Phase 3: Integration & Deep Linking'

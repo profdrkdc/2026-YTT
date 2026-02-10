@@ -1,5 +1,13 @@
 [
   {
+    "date": "2025-08-10",
+    "title": "Good Faith Reporting: Malicious Ads",
+    "description": "Reported a deepfake crypto scam featuring the Belgian PM. YouTube found 'no problem', establishing a contrast with their harsh action against my channel.",
+    "category": "Status",
+    "status": "Blue",
+    "evidenceId": "malicious-ad-report"
+  },
+  {
     "date": "2025-08-15",
     "title": "Unexpected Termination",
     "description": "YouTube channel '@KarelTest' terminated for 'Spam, deceptive practices and scams'. No specific reason or video cited.",
@@ -27,7 +35,16 @@
     "title": "Public Escalation (X/Twitter)",
     "description": "Reached out to @TeamYouTube on X, suggesting a potential brand violation and offering to rename the channel.",
     "category": "Escalation",
-    "status": "Yellow"
+    "status": "Yellow",
+    "evidenceId": "x-escalation-thread"
+  },
+  {
+    "date": "2025-09-08",
+    "title": "Direct X Inquiry to TeamYouTube",
+    "description": "Public post explaining the misinterpretation of developer tools as 'harmful software'.",
+    "category": "Escalation",
+    "status": "Yellow",
+    "evidenceId": "x-escalation-data"
   },
   {
     "date": "2025-08-20",

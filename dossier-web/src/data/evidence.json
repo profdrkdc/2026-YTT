@@ -64,6 +64,30 @@
     "description": "Screenshot of the first appeal rejection."
   },
   {
+    "id": "malicious-ad-report",
+    "title": "Malicious Ad Incident Report",
+    "category": "Document",
+    "type": "html",
+    "path": "/evidence/2025.08.a-report-malicious-advertisement/incident_report.md",
+    "description": "Report documenting YouTube's failure to remove a deepfake scam ad reported by the user."
+  },
+  {
+    "id": "x-escalation-thread",
+    "title": "X/Twitter Escalation Thread",
+    "category": "Social",
+    "type": "image",
+    "path": "/evidence/2025.09.15 15.20 X thread YTT.png",
+    "description": "Screenshot of the public outreach to @TeamYouTube on X."
+  },
+  {
+    "id": "x-escalation-data",
+    "title": "X/Twitter Interaction Data",
+    "category": "Social",
+    "type": "json",
+    "path": "/evidence/2025.09.08 @kareltest_  X @TeamYoutube.json",
+    "description": "Raw data of the X interaction highlighting the 'harmful software' misinterpretation."
+  },
+  {
     "id": "letter-alphabet-google",
     "title": "Letter of Concern to Alphabet",
     "category": "Document",

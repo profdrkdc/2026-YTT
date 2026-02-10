@@ -19,6 +19,18 @@ interface EvidenceGalleryProps {
   evidence: EvidenceItem[];
 }
 
+const JSONRenderer = ({ src }: { src: string }) => {
+  const [content, setContent] = useState<string>('');
+  useEffect(() => {
+    fetch(src).then(r => r.text()).then(setContent);
+  }, [src]);
+  return (
+    <Box sx={{ p: 2, bgcolor: '#f5f5f5', borderRadius: 1, maxHeight: 400, overflow: 'auto' }}>
+      <div dangerouslySetInnerHTML={{ __html: content }} />
+    </Box>
+  );
+};
+
 const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
   const [searchParams] = useSearchParams();
   const highlightId = searchParams.get('id');
@@ -58,6 +70,14 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
         return <ImageLightbox src={item.path} title={item.title} description={item.description} />;
       case 'csv':
         return <CSVTable src={item.path} title={item.title} description={item.description} />;
+      case 'json':
+        return (
+          <Box sx={{ height: '100%' }}>
+            <Typography variant="h6" gutterBottom>{item.title}</Typography>
+            <JSONRenderer src={item.path} />
+            <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>{item.description}</Typography>
+          </Box>
+        );
       case 'pdf':
       case 'html':
         return (

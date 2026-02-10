@@ -1,0 +1,50 @@
+I tried to build several google workspace add-ons. these required oAuth 2.0. the OAuth 2.0 verification procedure requires putting up videos on YouTube, demonstrating the way the add-on works and uses oAuth.
+Building Google Workspace add-ons with OAuth 2.0 can be a bit of a challenge 😅. The verification process can be particularly tedious, especially when it comes to creating YouTube videos to demonstrate the add-on's functionality and OAuth usage.
+To make the most of this process, you might want to consider the following:
+Keep your videos concise and focused: Make sure to clearly demonstrate the add-on's features and how OAuth is used. You can even use captions or annotations to highlight specific parts of the demo.
+Use a standard format: Ensure your videos follow a consistent structure, such as introducing the add-on, demonstrating its features, and then explaining the OAuth flow.
+Highlight security benefits: Emphasize how OAuth enhances security for users and how your add-on protects their data.
+Make it engaging: Use visuals, animations, or other creative elements to make your videos more engaging and easy to follow.
+If you need help with creating the videos or have specific questions about the verification process, feel free to ask!
+I tried to build several google workspace add-ons. these required oAuth 2.0. the OAuth 2.0 verification procedure requires putting up videos on YouTube, demonstrating the way the add-on works and uses oAuth.
+Now, Youtube has terminated my channel and imposed a lifelong ban without giving me a specific reason and without any prior warning. I didn't know what to do and used the form (max 1000 characters) to appeal, but it wasn't really a well constructed appeal, it was more an emotional outcry. My appeal was denied. I did a little research and contacted @TeamYouTube on X.com (as stated in the YouTube support pages). I got a automated response: 'the decision is already final'. I never got the opportunity to defend my case, never got the opportunity to talk to a human.
+A little more research revealed that thousands of people had the same experience: no prior warning (no strikes), no specific reason given, all automated responses by YouTube, no real chance of getting or giving more information, no real contact with a human (nor a qualified and able AI).
+After having tried everyting, I now think that I could inform GCP (Google Cloud Platform) about this problem. I am a valuable contributer to the Google ecosystem as a 3d party developer, and now I cannot put up more videos on YouTube which means I can no longer create new Google Workspace Add-ons for the Google ecosystem; having done nothing wrong.
+Can you find any email adress or form on the internet where I can present my case to Google / Google Cloud Platform? Maybe they can look into it, and get me my channel re-instated.
+
+To present your case to Google/ Google Cloud Platform, you have a few options:
+Contact Google Cloud Support: You can file a case with Google Cloud support through their console. This might not directly address your YouTube issue, but it's a way to get support for Google Cloud-related problems.
+Google Cloud Customer Care: Look into Google Cloud's Customer Care portfolio to see the types of support they offer. You can also refer to their documentation for more information.
+Billing Support Requests: If your issue is related to billing, you can use the Billing Support Requests form to contact support.
+Google Workspace Sales Specialist: You can fill out a contact form to start a conversation with a Google Workspace sales specialist, and maybe they can point you in the right direction.
+Community Support: Google Cloud has community forums and support groups where you can ask for help and advice from experts and other users.
+
+Here are some relevant links to get you started ¹ ²:
+
+Google Cloud Contact Form: https://cloud.google.com/contact
+
+Google Cloud Customer Care: https://cloud.google.com/support/docs/customer-care
+
+Google Cloud Console Help: https://support.google.com/googlecloud/answer/10443024
+
+Google Workspace Help Center: https://support.google.com/a/answer/10472124
+
+You can also try reaching out to Google Cloud's sales team or support through their official channels. Explain your situation, highlighting your contributions to the Google ecosystem and the impact of the YouTube channel termination on your work. While there's no guarantee of a resolution, it's worth a try ¹.
+
+
+
+I also might want to try Support for Google Chrome Web Store since one of the videos was about a legitimate chrome extension which I made
+
+You can try reaching out to the Chrome Web Store One Stop Support for developers. They might be able to help you with your issue. Here's how to contact them ¹ ²:
+
+Chrome Web Store Support Form: Fill out the form with the required details, such as:
+
+Item ID: A 32-character alpha string found in the URL of your extension's page
+
+Publisher Email Address: The email address associated with your developer account
+
+Reason for Contact: Select "My item (extensions, app, or theme)" and then choose the relevant sub-category
+
+Appealing a Review Verdict: If your extension was removed or rejected, you can appeal the decision using the same support form. Select "My item was warned / removed / rejected" and provide additional details as requested.
+
+You can access the Chrome Web Store One Stop Support form through the Chrome Web Store website or by searching for "Chrome Web Store One Stop Support" on Google. Make sure to have your extension's details ready to fill out the form accurately ³.

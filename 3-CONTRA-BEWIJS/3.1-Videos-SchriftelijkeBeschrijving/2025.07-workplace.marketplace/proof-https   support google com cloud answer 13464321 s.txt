@@ -1,0 +1,12 @@
+https://support.google.com/cloud/answer/13464321?sjid=18279320024272598492-EU
+
+...
+2. App functionality demonstration video
+We need to gain a good understanding of your app’s functionality and your compliance with the Google API Services User Data Policy and, if applicable, the product-specific policy on the Google Developer Page. In order to do this, we ask you to provide a link to a demonstration video of your app when submitting your app for verification. The video must meet the following requirements:
+
+Must show the end-to-end flow of your app including the OAuth grant process
+Must show the same application you have submitted for verification (including app name, branding)
+Show the complete OAuth Consent Screen. The consent screen must also show the same exact scopes you are requesting (or you have already been verified for) when you submit your app for re-verification. Please ensure the language setting on the bottom-left corner of the consent screen is toggled to “English”. 
+Note: OAuth 2.0 Policies and Transparent and Accurate Notice and Control Clauses require affirmative consent and user consent. This means that your demonstration video must meet the requirement outlined here, additionally if your application transfers data for AI model training, under the approved use cases described above, your demonstration video must show the flow of the user explicitly consenting to their data used for personalized AI model training.
+Must demonstrate the app functionalities that utilize the requested OAuth scopes
+...

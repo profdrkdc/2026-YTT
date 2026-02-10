@@ -1,0 +1,18 @@
+# Implementation Plan: Core Website & Interactive Timeline
+
+## Phase 1: Scaffolding & Setup
+- [ ] Task: Initialize Vite project with React and TypeScript
+    - [ ] Run pnpm create vite
+    - [ ] Install dependencies (MUI, React Router, Markdown parser)
+- [ ] Task: Configure basic layout and theme
+    - [ ] Set up Material Design theme
+    - [ ] Create basic Navbar and Footer
+- [ ] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding & Setup' (Protocol in workflow.md)
+
+## Phase 2: Content Rendering & Timeline
+- [ ] Task: Implement Markdown rendering
+    - [ ] Create a component to render Markdown content
+- [ ] Task: Build the Timeline component
+    - [ ] Design the timeline UI
+    - [ ] Implement data fetching from timeline documents
+- [ ] Task: Conductor - User Manual Verification 'Phase 2: Content Rendering & Timeline' (Protocol in workflow.md)

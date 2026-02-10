@@ -1,11 +1,11 @@
 # Implementation Plan: Evidence Repository & Proof Linking
 
-## Phase 1: Infrastructure & Data Mapping
+## Phase 1: Infrastructure & Data Mapping [checkpoint: fceb34d]
 - [x] Task: Create structured evidence data
     - [x] Map files in `1-timeline/` to a new `src/data/evidence.json`
 - [x] Task: Configure assets and paths
     - [x] Set up public assets or dynamic imports for media files
-- [~] Task: Conductor - User Manual Verification 'Phase 1: Infrastructure & Data Mapping'
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Infrastructure & Data Mapping'
 
 ## Phase 2: Evidence Gallery & Components
 - [ ] Task: Build Media Preview components

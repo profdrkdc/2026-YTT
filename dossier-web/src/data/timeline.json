@@ -55,7 +55,16 @@
     "title": "ODS Case Opened",
     "description": "Case initiated via Out-of-Court Dispute Settlement (ODS) mechanism.",
     "category": "Legal",
-    "status": "Blue"
+    "status": "Blue",
+    "evidenceId": "ods-ruling-87"
+  },
+  {
+    "date": "2025-12-16",
+    "title": "ODS Rulings in Favor",
+    "description": "The Appeals Centre rules in favor of the user for both disputes (#2025-012487-YT and #2025-012481-YT), citing YouTube's failure to provide sufficient justification for the termination.",
+    "category": "Legal",
+    "status": "Green",
+    "evidenceId": "ods-ruling-81"
   },
   {
     "date": "2026-01-08",

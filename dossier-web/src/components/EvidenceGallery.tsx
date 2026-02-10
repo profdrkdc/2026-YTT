@@ -1,7 +1,8 @@
 import { useState, useMemo, useEffect, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { Box, Typography, Grid, Chip, Stack, Button } from '@mui/material';
+import { Box, Typography, Grid, Chip, Stack, Button, Accordion, AccordionSummary, AccordionDetails } from '@mui/material';
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import VideoPlayer from './VideoPlayer';
 import ImageLightbox from './ImageLightbox';
 import CSVTable from './CSVTable';
@@ -25,7 +26,7 @@ const JSONRenderer = ({ src }: { src: string }) => {
     fetch(src).then(r => r.text()).then(setContent);
   }, [src]);
   return (
-    <Box sx={{ p: 2, bgcolor: '#f5f5f5', borderRadius: 1, maxHeight: 400, overflow: 'auto' }}>
+    <Box sx={{ p: 2, bgcolor: '#ffffff', maxHeight: 400, overflow: 'auto', borderTop: '1px solid #eee' }}>
       <div dangerouslySetInnerHTML={{ __html: content }} />
     </Box>
   );
@@ -74,7 +75,14 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
         return (
           <Box sx={{ height: '100%' }}>
             <Typography variant="h6" gutterBottom>{item.title}</Typography>
-            <JSONRenderer src={item.path} />
+            <Accordion variant="outlined" sx={{ bgcolor: '#fdfdfd' }}>
+              <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                <Typography variant="subtitle2" color="primary">View Interaction Details</Typography>
+              </AccordionSummary>
+              <AccordionDetails sx={{ p: 0 }}>
+                <JSONRenderer src={item.path} />
+              </AccordionDetails>
+            </Accordion>
             <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>{item.description}</Typography>
           </Box>
         );

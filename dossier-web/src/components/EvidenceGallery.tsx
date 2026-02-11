@@ -6,6 +6,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import VideoPlayer from './VideoPlayer';
 import ImageLightbox from './ImageLightbox';
 import CSVTable from './CSVTable';
+import MarkdownFetcher from './MarkdownFetcher';
 
 export interface EvidenceItem {
   id: string;
@@ -87,24 +88,25 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
           </Box>
         );
       case 'pdf':
-      case 'html':
-        return (
-          <Box sx={{ p: 2, border: '1px solid #ddd', borderRadius: 1, height: '100%' }}>
-            <Typography variant="h6" gutterBottom>{item.title}</Typography>
-            <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>{item.description}</Typography>
-            <Button 
-              variant="outlined" 
-              startIcon={<OpenInNewIcon />}
-              href={item.path}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Open Document
-            </Button>
-          </Box>
-        );
-      default:
-        return <Typography color="error">Unknown media type: {item.type}</Typography>;
+            case 'html':
+              return (
+                <Box sx={{ p: 2, border: '1px solid #ddd', borderRadius: 1, height: '100%' }}>
+                  <Typography variant="h6" gutterBottom>{item.title}</Typography>
+                  <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>{item.description}</Typography>
+                  <Button
+                    variant="outlined"
+                    startIcon={<OpenInNewIcon />}
+                    href={item.path}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Open Document
+                  </Button>
+                </Box>
+              );
+            case 'markdown':
+              return <MarkdownFetcher src={item.path} title={item.title} description={item.description} />;
+            default:        return <Typography color="error">Unknown media type: {item.type}</Typography>;
     }
   };
 

@@ -1,24 +1,24 @@
-##Mogelijke fouten van mijn kant
+## Possible Faults on My Part
 
-1. content not fit for public video on youtube -- quality just not there
-2. copyright infringement -- ´google ai studio´ brandname
-3. comment used ´violent language´ -- ¨you´re killing it jules¨
+1. content not fit for public video on YouTube -- quality just not there
+2. copyright infringement -- 'Google AI Studio' brand name
+3. comment used 'violent language' -- "you're killing it Jules"
 4. video looked like scam -- looked like trying to get users to download malware
-5. video niet private gezet...
+5. video not set to private...
 
 
-##Contra-argumenten
-###1. content not fit for public video on youtube -- quality just not there
-Dit is mogelijk, maar om hier meteen zonder waarschuwing geschorst voor te worden is extreem.
+## Counter-arguments
+### 1. content not fit for public video on YouTube -- quality just not there
+This is possible, but to be immediately suspended without warning for this is extreme.
 
-###2. copyright infringement -- ´google ai studio´ brandname
-Dit is mogelijk, maar YouTube staat vol met videos die dergelijke brandnames in hun titel of op hun thumbnail/miniature hebben.
+### 2. copyright infringement -- 'Google AI Studio' brand name
+This is possible, but YouTube is full of videos that have such brand names in their title or on their thumbnail/miniature.
 
-###3. comment used ´violent language´ -- ¨you´re killing it jules¨
-Dit is mogelijk, maar ook hier zijn er veel voorbeelden van videos die dergelijk taalgebruik gebruiken; ook heeft Google nooit deze comment of dit taalgebruik aangewezen als de reden van de schorsing --wat ze wel hadden moeten doen volgens DSA art.17 indien dit de reden was.
+### 3. comment used 'violent language' -- "you're killing it Jules"
+This is possible, but here too there are many examples of videos that use such language; also, Google never designated this comment or this language as the reason for the suspension -- which they should have done according to DSA Art. 17 if this was the reason.
 
-###4. video looked like scam -- looked like trying to get users to download malware
-Dit is mogelijk, maar een human review had zonder twijfel gedetecteerd dat dit niet het geval was.
+### 4. video looked like scam -- looked like trying to get users to download malware
+This is possible, but a human review would undoubtedly have detected that this was not the case.
 
-###5. video not private
-Dit is mogelijk, maar dan was directe schorsing zonder eerst een waarschuwing buitenproportioneel.
+### 5. video not set to private
+This is possible, but then direct suspension without prior warning would be disproportionate.

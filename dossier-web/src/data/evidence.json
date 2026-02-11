@@ -95,5 +95,21 @@
     "type": "markdown",
     "path": "evidence/1-timeline/2026.01-Comm_Google.Alphabet/2026.01.08-Letter_of_Concern_Updated_.md",
     "description": "An updated letter of concern addressed to Google/Alphabet regarding the channel termination."
+  },
+  {
+    "id": "ods-appeal-ed0c90c2",
+    "title": "ODS Appeal Document (ed0c90c2)",
+    "category": "Document",
+    "type": "pdf",
+    "path": "evidence/1-timeline/2025.10-ODS_case/2025.12.16-Appeal_ed0c90c2-3255-45c9-879e-9618e52fc7fc.pdf",
+    "description": "Official appeal document submitted to ODS."
+  },
+  {
+    "id": "ods-appeal-fdcce33d",
+    "title": "ODS Appeal Document (fdcce33d)",
+    "category": "Document",
+    "type": "pdf",
+    "path": "evidence/1-timeline/2025.10-ODS_case/2025.12.16-Appeal_fdcce33d-a92b-4fcb-8b96-a4144e7e7b4c.pdf",
+    "description": "Official appeal document submitted to ODS."
   }
 ]

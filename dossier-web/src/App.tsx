@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import TimelinePage from './pages/TimelinePage';
 import EvidencePage from './pages/EvidencePage';
 import HomePage from './pages/HomePage';
+import SuspensionAnalysisPage from './pages/SuspensionAnalysisPage';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/timeline" element={<TimelinePage />} />
           <Route path="/evidence" element={<EvidencePage />} />
+          <Route path="/suspension-analysis" element={<SuspensionAnalysisPage />} />
         </Routes>
       </Box>
       <Footer />

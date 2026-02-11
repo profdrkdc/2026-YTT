@@ -11,7 +11,7 @@
     "id": "malicious-ad-report",
     "title": "Malicious Ad Incident Report",
     "category": "Document",
-    "type": "html",
+    "type": "markdown",
     "path": "evidence/1-timeline/2025.08.a-report-malicious-advertisement/incident_report.md",
     "description": "Report documenting YouTube's failure to remove a deepfake scam ad reported by the user."
   },

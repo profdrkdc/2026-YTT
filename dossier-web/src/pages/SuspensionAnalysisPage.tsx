@@ -20,7 +20,7 @@ const SuspensionAnalysisPage = () => {
               <Typography variant="h5" component="h2">Possible Faults (User Perspective)</Typography>
             </AccordionSummary>
             <AccordionDetails>
-              <MarkdownFetcher src="evidence/2-YouTube-Policy/2.1-Possible-Faults-(me)/1-PossibleFaults_by.me.md" />
+              <MarkdownFetcher src="/2026-YTT/evidence/2-YouTube-Policy/2.1-Possible-Faults-(me)/1-PossibleFaults_by.me.md" />
             </AccordionDetails>
           </Accordion>
         </Box>
@@ -31,7 +31,7 @@ const SuspensionAnalysisPage = () => {
               <Typography variant="h5" component="h2">Possible Faults (YouTube's Perspective)</Typography>
             </AccordionSummary>
             <AccordionDetails>
-              <MarkdownFetcher src="evidence/2-YouTube-Policy/2.2-Possible-Faults-(YT)/1-PossibleFaults_by.Google.md" />
+              <MarkdownFetcher src="/2026-YTT/evidence/2-YouTube-Policy/2.2-Possible-Faults-(YT)/1-PossibleFaults_by.Google.md" />
             </AccordionDetails>
           </Accordion>
         </Box>

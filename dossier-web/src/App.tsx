@@ -1,9 +1,10 @@
-import { Box, Container } from '@mui/material';
+import { Box } from '@mui/material';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import TimelinePage from './pages/TimelinePage';
 import EvidencePage from './pages/EvidencePage';
+import HomePage from './pages/HomePage';
 
 function App() {
   return (
@@ -17,12 +18,7 @@ function App() {
       <Navbar />
       <Box component="main" sx={{ flexGrow: 1 }}>
         <Routes>
-          <Route path="/" element={
-            <Container sx={{ mt: 4, mb: 4 }} maxWidth="lg">
-              <h1>Home</h1>
-              <p>Welcome to the 2026-YTT Dossier.</p>
-            </Container>
-          } />
+          <Route path="/" element={<HomePage />} />
           <Route path="/timeline" element={<TimelinePage />} />
           <Route path="/evidence" element={<EvidencePage />} />
         </Routes>

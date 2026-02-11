@@ -7,7 +7,7 @@ import {
   TimelineDot, 
   TimelineOppositeContent 
 } from '@mui/lab';
-import { Typography, Paper, Box, Button } from '@mui/material';
+import { Typography, Paper, Button } from '@mui/material';
 import GavelIcon from '@mui/icons-material/Gavel';
 import WarningIcon from '@mui/icons-material/Warning';
 import ErrorIcon from '@mui/icons-material/Error';

@@ -88,23 +88,34 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
           </Box>
         );
       case 'pdf':
-            case 'html':
-              return (
-                <Box sx={{ p: 2, border: '1px solid #ddd', borderRadius: 1, height: '100%' }}>
-                  <Typography variant="h6" gutterBottom>{item.title}</Typography>
-                  <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>{item.description}</Typography>
-                  <Button
-                    variant="outlined"
-                    startIcon={<OpenInNewIcon />}
-                    href={item.path}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Open Document
-                  </Button>
-                </Box>
-              );
-                  case 'markdown':
+                  case 'html':
+                    return (
+                      <Box sx={{ p: 2, border: '1px solid #ddd', borderRadius: 1, height: '100%' }}>
+                        <Typography variant="h6" gutterBottom>{item.title}</Typography>
+                        <Typography variant="body2" color="text.secondary" sx={{ mb: 2 }}>{item.description}</Typography>
+                        <Button
+                          variant="outlined"
+                          startIcon={<OpenInNewIcon />}
+                          href={item.path}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Open Document
+                        </Button>
+                        {item.id === 'verification-requirements' && (
+                          <Box sx={{ mt: 2 }}>
+                            <Accordion variant="outlined" sx={{ bgcolor: '#fdfdfd' }}>
+                              <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                                <Typography variant="subtitle2" color="primary">View Relevant Excerpt</Typography>
+                              </AccordionSummary>
+                              <AccordionDetails sx={{ p: 0 }}>
+                                <MarkdownFetcher src="evidence/2-YouTube-Policy/google-cloud-verification-requirements-excerpt.md" />
+                              </AccordionDetails>
+                            </Accordion>
+                          </Box>
+                        )}
+                      </Box>
+                    );                  case 'markdown':
                     return (
                       <Box sx={{ height: '100%' }}>
                         <Typography variant="h6" gutterBottom>{item.title}</Typography>

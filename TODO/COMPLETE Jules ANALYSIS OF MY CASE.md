@@ -2,7 +2,7 @@
 
 1. # INPUT
 
-1. ## (AI Prompt) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: Jules 2.0
+1. ## (AI Prompt) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: Jules 2.0
 
 Github repo:
 

@@ -8,14 +8,6 @@
     "description": "Timestamped log of channel image creation, proving account activity start."
   },
   {
-    "id": "watch-history",
-    "title": "Watch History (Pre-Termination)",
-    "category": "Data",
-    "type": "html",
-    "path": "/evidence/2025.06-creation.channel.kareltest/watch-history.html",
-    "description": "Forensic export of watch history proving legitimate user behavior."
-  },
-  {
     "id": "malicious-ad-report",
     "title": "Malicious Ad Incident Report",
     "category": "Document",
@@ -56,6 +48,14 @@
     "description": "Demonstration of the AI Studio Reader extension."
   },
   {
+    "id": "cws-video-proof",
+    "title": "CWS Video Proof with Marker",
+    "category": "Screenshot",
+    "type": "image",
+    "path": "/evidence/1-timeline/2025.08.b-cws/proof-YTvideo_for_CWS_with-marker.png",
+    "description": "Evidence from the Chrome Web Store submission, with markers highlighting key details."
+  },
+  {
     "id": "termination-email",
     "title": "First Termination Email",
     "category": "Screenshot",
@@ -68,7 +68,7 @@
     "title": "Appeal Denied Notification",
     "category": "Screenshot",
     "type": "image",
-    "path": "/evidence/2025.08.16 ChannelTermination-appealDenied-1.png",
+    "path": "/evidence/2025.08.16 ChannelTermination-appealDenied-1-redacted.png",
     "description": "Screenshot of the first appeal rejection."
   },
   {
@@ -86,29 +86,5 @@
     "type": "json",
     "path": "/evidence/2025.09.08 @kareltest_  X @TeamYoutube.json",
     "description": "Raw data of the X interaction highlighting the 'harmful software' misinterpretation."
-  },
-  {
-    "id": "ods-ruling-87",
-    "title": "ODS Ruling #2025-012487-YT",
-    "category": "Legal",
-    "type": "pdf",
-    "path": "/evidence/2025.10-ODS_case/2025.12.16-beslissingen/Appeal_ed0c90c2-3255-45c9-879e-9618e52fc7fc.pdf",
-    "description": "Out-of-Court Dispute Settlement ruling in favor of the user, citing YouTube's failure to provide sufficient information."
-  },
-  {
-    "id": "ods-ruling-81",
-    "title": "ODS Ruling #2025-012481-YT",
-    "category": "Legal",
-    "type": "pdf",
-    "path": "/evidence/2025.10-ODS_case/2025.12.16-beslissingen/Appeal_fdcce33d-a92b-4fcb-8b96-a4144e7e7b4c.pdf",
-    "description": "Second ODS ruling in favor of the user, confirming systemic lack of transparency from YouTube."
-  },
-  {
-    "id": "letter-alphabet-google",
-    "title": "Letter of Concern to Alphabet",
-    "category": "Document",
-    "type": "pdf",
-    "path": "/evidence/2026.01-Comm_Google.Alphabet/2026.01.08-__Letter_of_Concern_Alphabet_Google__.pdf",
-    "description": "Formal legal correspondence sent to Alphabet/Google HQ."
   }
 ]

@@ -2125,7 +2125,7 @@ Sincerely,
 
 Karel Decherf
 
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 
 
 ---
@@ -2219,7 +2219,7 @@ Thank you for your assistance.
 Sincerely,
 
 Karel Decherf
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 ```
 
 Nogmaals, uw versie is al extreem goed. Deze suggestie is slechts een kleine verfijning. **Verstuur dit ticket.** Dit is een zeer sterke zet.
@@ -2312,7 +2312,7 @@ Thank you for your assistance.
 Sincerely,
 
 Karel Decherf
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 ```
 
 ### Waarom deze versie veel sterker is:
@@ -2405,7 +2405,7 @@ Thank you for your assistance.
 Sincerely,
 
 Karel Decherf
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 ```
 
 ### Waarom deze versie de beste is:
@@ -2443,7 +2443,7 @@ Sincerely,
 
 Karel Decherf
 
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 
 
 ---

@@ -2,7 +2,7 @@
 
 1. # Email \+ Correspondentie
 
-1. ## (Email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com)
+1. ## (Email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED])
 
 Karel Test, we hebben je kanaal verwijderd van YouTubeYouTube/Termination  
 ![][image1]
@@ -13,7 +13,7 @@ Karel Test, we hebben je kanaal verwijderd van YouTubeYouTube/Termination
 
 It looks like this message is in Dutch
 
-2. ## (webform) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
+2. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
 
 Youtube Appeal form   
 2025.08.15  
@@ -21,7 +21,7 @@ Ik weet niet meer exact wat ik heb geschreven, maar het was iets in de trend van
 
 “I am absolutely shocked. I don’t know what I did wrong. I never expected this. Can you tell me what I did wrong because have absolutely no idea.”
 
-3. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) 
+3. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) 
 
 Karel Test, we've reached a decision on your appealYouTube/Termination  
 ![][image2]
@@ -33,7 +33,7 @@ Karel Test, we've reached a decision on your appealYouTube/Termination
 |    Hi Karel Test,   We have reviewed your appeal for the following:   Channel: [Karel Test](https://c.gle/ANiao5rtTleQbIIgl_fH5rs9PvOmSJqSkdDTzICfPWx2aHInX7e79DxvPwCL8Pxma3bH68EpIt9NXqW6EJoK3M9bwn2WYiqnuqYjtLWBIxkia8N_Zn2zcVAD19DKIvKSu8HI_7c9J8fBjA7VKaPD04ksDchtaFBQEg)   We reviewed your channel carefully, and have confirmed that it violates our spam, deceptive practices and scams policy. We know this is probably disappointing news, but it's our job to make sure that YouTube is a safe place for all.   How this affects your channel   We won't be putting your channel back up on YouTube.   Learn about your [resolution options](https://c.gle/ANiao5qLQ4EBXX3nFyPAbu0MQ5zsPnnSXV1GuonY_cPZTlORI2g-nzXjQH2quaTh7TAkZRC4bhBza52oFMUUB_3oJgN2UsHymy03jRA0wL66RQHi-QT4BiYkopHn3ZQ_MWAslSydE7hzO0vXmsBJXxddRA).   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5rrqC0iSht5MxbzuXLKeK_H5wa6vRgzLDNyPsoSKU6dSAAIAAdXez8T2DCaokISq_-P41Iatd3EfyAMLlbssOby929lVoJjOBB4LltC5refX6JY2ReOMsVxLYUZqyF3sqeHsXbQBLjOhK-bEZ0Vm7YgI4gd) • [Email options](https://c.gle/ANiao5pGoHeK8TyxQMcbslXlcryhCEdoxCw9FMQl6a5D5kDwXZBpJBI3Oqz548cump5JxNzdkx4cXykPU9PA9fwtwfw2gicoKgQ8shg4TuePtoJK8glFzbnc8i2EFOQENJOv82bG9W1Q1OM9Uqur2_8vDuYgkkUjmLw76RqvIAFrPxi4SIlym24FhXEsMnj8zMT2qkLkQLWxyQcxI_GSIYwhK6QhSRQ)   You have received this email to update you on actions related to your YouTube account.   Was this email helpful?  [Yes](https://c.gle/ANiao5rdv16LrR7MGo6mpQoH6jaQ0yi03Rc134zVj2BCrHqg3Rg_jPuDNLDdZv6L5p6muGYMAQp919MOyrP-83ERx0FiQjy4xpHoI-axSC2fnw3WpaQjjr8jXoKqxEeE582huWHZgnpHmXq8AMHKDsHJVonDI3i5jhZmkLUBqFE7OyPi1f9usutqvAspf57lrr1-SwLx11EnEiv8OcCGTNyn4ac0DmOyAx_IagzgZsv5ETvrO3ANzZMl5A)    |   [No](https://c.gle/ANiao5oqlI1vL2jIZIUj9uGePQ6518-5jSlp2JlXJ8_RDSErgrmZrvnf0qKL4TVID-DS9BVRarEupbD0VN72JdgNg-bZoQF655DN2W7Ry0gg_NV8uQ2O-YetBHn7N4Jrs8Ezf099Zr4Hua0np0-tH6dn_nXtmfdF3euK8bf7sMkzgKWj_WQwx3HCWRnjY_GeXPqQXJTmwvEN7enfl0FhkfNNqx6S3wVtFMJqDSWiiRRDJ80G7VdNNhI1Hw)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/0/#m_-3856561295292810158_)  |
 | ----- |
 
-4. ## (webform) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
+4. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
 
 Youtube Appeal form :  
 2025.08.16  
@@ -41,7 +41,7 @@ Ik weet niet meer exact wat ik heb geschreven, maar het was iets in de trend van
 
 “Can you please tell me what specific rule i broke with what specific part of which content. I don’t know what I did wrong. I never expected this. Can you tell me what I did wrong because have absolutely no idea.”
 
-5. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) 
+5. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) 
 
 Review the update on your appeal statusYouTube/Termination  
 ![][image3]
@@ -110,7 +110,7 @@ This is no way to treat people / Shame on you Google \!
 
 7. ## (letter by mail) from: Karel Decherf (Karel Test) ; to: YouTube Ireland
 
-From: Karel Decherf, Hurstweg 9, B-9000 Gent, Belgium, karel.test.special@gmail.com  
+From: Karel Decherf, [PERSONAL_ADDRESS_REDACTED], [USER_EMAIL_REDACTED]  
 To: Google Ireland Limited Gordon House, Barrow Street Dublin 4 Ireland  
 August 20, 2025  
 Subject: Multiple Unjustified Channel Terminations with Lack of Transparency and  
@@ -164,12 +164,12 @@ I look forward to your substantive response on this matter.
 Sincerely,  
 Karel Decherf  
 @KarelTest  
-karel.test.special@gmail.com  
-Hurstweg 9  
-B-9000 Gent  
+[USER_EMAIL_REDACTED]  
+[USER_ADDRESS_REDACTED]  
+[USER_ADDRESS_REDACTED]  
 Belgium
 
-8. ## (email) from: YouTube legal support team \<legal+0rh36hxuz30z02o@support.youtube.com\>; to: karel.test.special@gmail.com
+8. ## (email) from: YouTube legal support team \<legal+0rh36hxuz30z02o@support.youtube.com\>; to: [USER_EMAIL_REDACTED]
 
 YouTube Legal TeamYouTube/Termination  
 ![][image9]
@@ -186,7 +186,7 @@ Regards,
 
 The YouTube Legal Support Team
 
-9. ## (webform) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
+9. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
 
 Youtube Appeal form :  
 2025.09.03
@@ -225,10 +225,10 @@ Sincerely,
 
 Karel Decherf   
 Channel: @KarelTest , https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA  
-[karel.test.special@gmail.com](mailto:karel.test.special@gmail.com)   
-Hurstweg 9 B-9000 Gent Belgium
+[[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED])   
+[USER_ADDRESS_REDACTED] [USER_ADDRESS_REDACTED] Belgium
 
-10. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: karel.test.special@gmail.com
+10. ## (email) from: YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [USER_EMAIL_REDACTED]
 
 Karel Test, we've reached a decision on your appealYouTube/Termination  
 ![][image10]
@@ -240,12 +240,12 @@ Karel Test, we've reached a decision on your appealYouTube/Termination
 |      Hi Karel Test,   We have reviewed your appeal for the following:   Channel: [Karel Test](https://c.gle/ANiao5qMN_7WlAw_lQD4lKSnEg2qDp0Lb9XULIPGBaAj317nE3gmTpn-WwR70xtV7q1GajIi1HUaFctMGeQjJOzl4Lyvvh3RUK8UGp1ZfB8az6CVJ3Rvx_BxIg3jSo3ZiNpGz_vFywvyB3VTmK4NpujQ-BeEaxvMiQ)   We reviewed your channel carefully, and have confirmed that it violates our spam, deceptive practices and scams policy. We know this is probably disappointing news, but it's our job to make sure that YouTube is a safe place for all.   How this affects your channel   We won't be putting your channel back up on YouTube.   Learn about your [resolution options](https://c.gle/ANiao5rYNnH5AZjmtJdx_2ipPTMrO4ToakeKazyVF3zUHNiCGWg4Fj7yO91KTegXw_2NsEzulsN6ViLRcEImcD4fCHSBoSKVQr_QnBGkrhBi1NZpynrTrOHtmy6E6dP7CwQ3FlcGUCW-VIM7Ty1wy8zSHQ).   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5qyLNMA6axybI99JI3myAnJAVAHf2cVLXgHF8bTOGZf8ulxdRHZgvd3eN_RWz6UcZTCW8oWTxGGCMHiujC_d5UJcNLGMAcAoOg2MfJzHNJYhh5S-YqaqFrlqabv-Br-SDB8SsPOwJJQvwNz7Y3ZlIFKoHUV) • [Email options](https://c.gle/ANiao5qspC89UYA80kVP8_Ky2Bx5s_Nq8VGC4ZDiRoik9pl_rkTArsbaj-EcUsuhDpbv2lthZXArNFDrDU0dchFXAMhVFJJXF3cKBaCoohkniMB8gN9tOSoZsEToUPr6Njw2EKULSd3J9Ijbncrv7hJZ6BDWrAAWnxwfzZN13DFi1p_F9PVzWhLwlvP4m82ToCYAbteTEU28em6RN_2Rka1ahZH9a1Y)   You have received this email to update you on actions related to your YouTube account.   Was this email helpful?  [Yes](https://c.gle/ANiao5q3ZBIXd2hcu8I3tskLvAj7V6EsprnxP0Kpk2OGwBsojLxGtC0YCeUEUvwdlD1pSkWxGk1pWfpc5P2tQ0LySQGMKy5C0Lk8X3_vEX3Z5RWnZuqnlnP0aVZUS6ygM7H-TZmpoMDZcosvi92AmhScP57al2pV_hP51Rl_0Vkss_qMfhE2qwjEC1-rUa2ADWvcrXzJ8Q7K_AOG-A7FLAwp5f14wwKIMiF8YrMD6NG4G0L-fzNr9JOUbw)    |   [No](https://c.gle/ANiao5okvFpoNADrL8B4_0X3nHOAlmoyaThonzrN5DKSfezFELYSksZGcmGed9Cfu74KMtRvq74tDFLn1GJl1uwKI9a0df5pgkkfpZbT2U8Dcc23pE5oDGt4MjXugZgNuLkDgIeCNrvYxmAytp0cqfWTGEPp_LJxxjh8SpvEUbGivrXpq9EM3Y-u_BsIt9kBNqDIYFwuyE7fYNpGx1MxL75hrlQF6jxJhtcum5LeeMTDmj0OGPg-Z4-wDA)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/0/#m_-918312156411960358_)  |
 | ----- |
 
-11. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+11. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 Re: Your YouTube Channel Suspension \- Follow-up with Detailed Analysis and Rectification Plan \- Channel: @KarelTestYouTube/Termination  
 ![][image11]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Thu, Sep 4, 4:18 PM (7 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Thu, Sep 4, 4:18 PM (7 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o  |  |  |  |
 
@@ -309,9 +309,9 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-Address: Hurstweg 9, B--9000 Gent, Belgium
+Address: [USER_ADDRESS_REDACTED], [USER_ADDRESS_REDACTED], Belgium
 
 additional documents:
 
@@ -323,14 +323,14 @@ additional documents:
 
 **2 Attachments**  •  Scanned by Gmail
 
-12. ## (webform) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
+12. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
 
 2025.09.04  
 Possibly oAuth verification seen as : Systematic Promotion of Security Bypassing: Two videos provided a literal visual tutorial on how to ignore Google's own security warnings (clicking "Advanced" and "Go to... (unsafe)") and grant broad, high-risk permissions to an unverified application.
 
 From the perspective of your systems, a channel that repeatedly impersonates your brands and teaches users to bypass your security measures is a threat. The "severe violation" and immediate termination without warning now make complete sense to me from that standpoint.
 
-13. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com)
+13. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED])
 
 Review the update on your appeal statusYouTube/Termination  
 ![][image12]
@@ -342,7 +342,7 @@ Review the update on your appeal statusYouTube/Termination
 |      Hello Karel Test,   We received an appeal for your channel and it looks like a previous appeal has recently been denied. Please take a look at the email we sent previously for additional details on the rejection.   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5qEha85ikHdxIDQwIdnD3oWAagRYNnrIgTXKMlBDCKvYp_OhHY2vecTxpq3pQ5uNew16nWdcQikAtBvgkovEkVLooF6A7vnDvlsby4KBXre06_F3hTNXcmPndqvqgHeOYFsK8m6-GHRHgpi4hLND5lcUJVl) • [Email options](https://c.gle/ANiao5ow7kVm4QKw8OKWCTjkWUZAGynhXIDK68GTR_ca5IBgQRJ8_-bRZM3SFnuO1btW3r9lJf8eeWsqmFyzKRqfkTjZ54_8VSXMUvowFgYb6grkQhiQgpfCaHOa5LkBL_CHD6HzxiXp2xpoJBTfzezZH8F1GLTxW9v0_Fi0VyE12wXfnSaD7uIl26B0yj2XwQzbB7hiIuppz0RxZxITqlBApjN7KifFA89WOjg)   You received this mandatory email service announcement to update you about important changes to your YouTube channel or account.   Was this email helpful?  [Yes](https://c.gle/ANiao5pKKLnvy04Hh4U6ip5OXt8KAFOpMYhaAm7QWQ5mXJlEcNBduqovocC9Sj6rumo4sOv63KcvFQEwi28sNYOAmMEp8TWdH3vKXxs-hbVmfvE7UGIhPR7qo47TV2Sy9OaKzIZSIdIlb1cSQUr2mX2HXr2048fe7L4drPksIJvBTE5UEjNEd91LPkFFIohVZOHUg1xEMNA2aAw_brwML2LO0miy8WcZ-cVS2xl6btYth--U8yyEFbkQOg)    |   [No](https://c.gle/ANiao5pe2KI0iQoUkIqcM42KHaZya1DXPz6JP3cF-gPzg-BT_r-zUCCEXc2q2d5MrZiIHZYWXaVhLYTB6tSSp91FTFSAtEqQUruc7QuM_Svhg2yg8rAUEtECE-W_B2KO9pIFcef3JPZm2vAKdHzTH99hFMMqmhdHym1jFS8VgEss2lJPkLSxT-0ZRKGR76u0hk7uQRRyfV7fGBgRYc3g8DLE5wQ9KqLf1j37D4Dl1p2BMMbl4kqHXw1UZQ)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/0/#m_8247086680177919784_)  |
 | ----- |
 
-14. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: prof.dr.kdc@gmail.com
+14. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [USER_EMAIL_REDACTED]
 
 Karel Gerard Robert, we hebben je kanaal verwijderd van YouTube  
 ![][image13]
@@ -375,18 +375,18 @@ Karel Gerard Robert, we hebben je kanaal verwijderd van YouTube
 
 It looks like this message is in Dutch
 
-15. ## (webform) from: [prof.dr.kdc@gmail.com](mailto:profdrkdc@gmail.com) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
+15. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube [https://support.google.com/accounts/contact/suspended?p=youtube\&sjid=15850454476682178500-EU](https://support.google.com/accounts/contact/suspended?p=youtube&sjid=15850454476682178500-EU)
 
 2025.09.05
 
 “Please take another look at the Termination of my channel Karel Test , it was wrongfully suspended.”
 
-16. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+16. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 Urgent Follow-up: Channel Suspension for Circumvention (@Karel Gerard Robert) \- Linked to a Deeper Contextual Issue on Root Channel (@KarelTest)YouTube/Termination  
 ![][image14]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Fri, Sep 5, 7:41 PM (6 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Fri, Sep 5, 7:41 PM (6 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o  |  |  |  |
 
@@ -428,7 +428,7 @@ Root Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA
 
 Second Channel: @Karel Gerard Robert ([https://studio.youtube.com/channel-appeal?authuser=2\&entry=account\_switcher\&sdc=EhhVQ0JaTC1iX2V0Zy1paFlvOThfNnRTWWc%253D](https://studio.youtube.com/channel-appeal?authuser=2&entry=account_switcher&sdc=EhhVQ0JaTC1iX2V0Zy1paFlvOThfNnRTWWc%253D))
 
-17. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [prof.dr.kdc@gmail.com](mailto:prof.dr.kdc@gmail.com)
+17. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED])
 
 Karel Gerard Robert, we've reached a decision on your appealYT Termination  
 ![][image15]
@@ -440,12 +440,12 @@ Karel Gerard Robert, we've reached a decision on your appealYT Termination
 |      Hi Karel Gerard Robert,   We have reviewed your appeal for the following:   Channel: [Karel Gerard Robert](https://c.gle/ANiao5pOmHfnuyU-kmokQViGrs0MfHhalJfs31nzVltAIZ_Og0DjSVCfKJm2-QHjlh1r7Hnd0XFKZszTv-jUehiLyIwMEOjrjLwKyAZBVdkpOuOwj9VCE3P8pBCW2AIy43tOtNnGXq-dYZGjPnYZUfnW-rBJd-Z4PA)   We reviewed your channel carefully, and have confirmed that it violates our Community Guidelines. We know this is probably disappointing news, but it's our job to make sure that YouTube is a safe place for all.   How this affects your channel   We won't be putting your channel back up on YouTube.   Learn about your [resolution options](https://c.gle/ANiao5qCBhfLLMTyq0nYHLbSaRMMUHkGz0zIqf4BTs6TLq2FBYFWDbE7eQGQnzHKZ7BiQEIK7ND8LCYYlH4J9WcFVKZBxZpMK30EqLi0ZEg94MHouYNJOsxKxiz7HxHeGdsZzJ2hmtPssee-r3CtE5woyQ).   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5oECk_tBhm3anP6CDz5TWxElSCWpgBT5ATPyQLPj0otNmtpffztgo8Vy4yH-G7fhOSGvQJvBfV2sckZRHtxNJ5K12uyPbOXA6410dRFRrD44pkTsRbZfBiFnXfcl2whtby4sXFx1gv7TQx-ydrAHAWpVLY1) • [Email options](https://c.gle/ANiao5q8M1w6ytLDBSrYT52aln2ZpdjVAeng2tzIKvWCNeIlbGb1jiz7Ems2esB17XyyMDHOqNMoGPn6N2Eld8OmXuobuKs1VkEZFwfIe1DpTKuRY68zrYY1r0EeuDRlMwh5o4Rio4lQmOcizLDPvgLJhFYBq8MvdrZkelq-0aE-tEhoGqpObLr-cPgOhvAtStVHUyGX8ropJupViPiQz_ihAsLO0-g)   You have received this email to update you on actions related to your YouTube account.   Was this email helpful?  [Yes](https://c.gle/ANiao5op-WIN5f9fraCpoBMiU28wVml6I7qX3NxZHrus6dp8EpjAgMV1UWLH0wjGNzjqVbCSQIyTwNhW4za-95lMjNuqy6wyei5nHZxKHNxeh4SFj_jwu8nQ3Hz0DbpgywI9HfOEMkdUERh5xNynMU8gA2PCOurlq7hlCn2SbZ9geBytko7_rkNYK9JiMS_SWMCp_oYS2X5i13VH-nwWxm-1sSEeVKTqDkiI76eLliPFRQqD1CmMDrJldA)    |   [No](https://c.gle/ANiao5ojcSY3DmlNXv_FuA06oWLNT5Dp82rWPEg0Fof9_Num7bNA0AObYSsjUgSlhLicT2g2CcqMvxq3_IyfIh_Hbpi8T3S1nGsTcihWHxoDvzAdcVaWc9Vso6uBO6Dm4YN7TbgdG-STrOplRF6yzWrSRtty1ItcB9v7rO3w4y5sAaPcf2miXVpgiOv-oSy_e-YkFW4ks8DcyNzHPT7VOldNEoV8UDJXtJaXHIp_u4cIjXmO6WDA5ainKw)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/2/#m_-3669461544007661070_)  |
 | ----- |
 
-18. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+18. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 Fwd: Your YouTube Channel Suspension \- Follow-up with Detailed Analysis and Rectification Plan \- Channel: @KarelTestYouTube/Termination  
 ![][image16]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Sat, Sep 6, 5:39 AM (5 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Sat, Sep 6, 5:39 AM (5 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o  |  |  |  |
 
@@ -461,7 +461,7 @@ THIS IS NOT PHISHING MALWARE
 
 Urgent Follow-up: Channel Suspension for Circumvention (@Karel Gerard Robert) \- Linked to a Deeper Contextual Issue on Root Channel (@KarelTest)
 
-Karel Test \<karel.test.special@gmail.com\>
+Karel Test \<[USER_EMAIL_REDACTED]\>
 
 Fri, Sep 5, 7:41 PM (9 hours ago)
 
@@ -507,7 +507,7 @@ Second Channel: @Karel Gerard Robert ([https://studio.youtube.com/channel-appeal
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Thu, Sep 4, 2025 at 4:18 PM
 
@@ -575,9 +575,9 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-Address: Hurstweg 9, B--9000 Gent, Belgium
+Address: [USER_ADDRESS_REDACTED], [USER_ADDRESS_REDACTED], Belgium
 
 additional documents:
 
@@ -589,12 +589,12 @@ additional documents:
 
 **2 Attachments**  •  Scanned by Gmail
 
-19. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+19. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 To present new in-depth analysis to you, take full responsibility for the problematic content, and respectfully request an opportunity to make things rightYouTube/Termination  
 ![][image17]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Sat, Sep 6, 5:42 AM (5 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Sat, Sep 6, 5:42 AM (5 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o  |  |  |  |
 
@@ -648,14 +648,14 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-20. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+20. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 Fwd: To present new in-depth analysis to you, take full responsibility for the problematic content, and respectfully request an opportunity to make things rightInboxYouTube/Termination  
 ![][image18]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Sat, Sep 6, 5:47 AM (5 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Sat, Sep 6, 5:47 AM (5 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o  |  |  |  |
 
@@ -673,7 +673,7 @@ THIS IS NOT PHISHING MALWARE
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Sat, Sep 6, 2025 at 5:42 AM
 
@@ -731,14 +731,14 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-21. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
+21. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: YouTube legal support team \<[legal+0rh36hxuz30z02o@support.youtube.com](mailto:legal+0rh36hxuz30z02o@support.youtube.com)\>
 
 Fwd: To present new in-depth analysis to you, take full responsibility for the problematic content, and respectfully request an opportunity to make things rightYouTube/Termination  
 ![][image19]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Sun, Sep 7, 10:02 AM (4 days ago) |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Sun, Sep 7, 10:02 AM (4 days ago) |  |  |
 | :---- | ----: | ----: | ----: |
 |  to legal+0rh36hxuz30z02o![][image20]  |  |  |  |
 
@@ -750,7 +750,7 @@ I have absolutely no malicious intent and apologize if any rules or regulations 
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Sat, Sep 6, 2025 at 5:47 AM
 
@@ -772,7 +772,7 @@ THIS IS NOT PHISHING MALWARE
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Sat, Sep 6, 2025 at 5:42 AM
 
@@ -830,9 +830,9 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-22. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: karel.test.special@gmail.com
+22. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [USER_EMAIL_REDACTED]
 
 Review the update on your appeal statusYouTube/Termination  
 ![][image21]
@@ -844,7 +844,7 @@ Review the update on your appeal statusYouTube/Termination
 |      Hello Karel Test,   We received an appeal for your channel and it looks like a previous appeal has recently been denied. Please take a look at the email we sent previously for additional details on the rejection.   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5qUbcku0rRtn042a5nNXCKZ_Lq2-Qise_mDVevjq8qnvowlaDmuZqkZW27_DkGWe1hdy97x9ImNtXjcHA2j0-c8tBAxMAjnjfCS8uoVaHBS12WnBIzsTETNVV8sobDEKXKdQwG2hqeWfs2du5GNMUsKN35T) • [Email options](https://c.gle/ANiao5p3SkuvzJvMHsVNOePmPXvBV9to5_yJIgK95Bf8_lUkgJ77zH5-L18yG8hz_MEAB3nnQ-amZI-Ujt0vdP0HJoafkYGqBwODb6GeUPm3XTp2JwSg2J5bL9N-gVJ9FZYK8x4KXY2_81bQ8Y0Br1nbWrto8R1erR_Q-9dA2tEfjS_FHOpArRWSYjvixjvlwwfsbSYRa_RsMUC60dwSGJeU91iEs3feqkYCPuo)   You received this mandatory email service announcement to update you about important changes to your YouTube channel or account.   Was this email helpful?  [Yes](https://c.gle/ANiao5ogVlsLEH961RCliwAMlC6UF7faA_805YUQuMMiSgpMhfXBk9ujduvBWG1dBDG7fX7PTAI9lu3-Mcts3HVvfZ3K7_onZ20DdY4wyYsxcQr48iBFLZt1PAoJ32Akrl4YzzouwJsES8mhWAWj3xquUigLip6h1RG06Yd0ZovSUapuDG3r3jd3vLNCbEddzZnvX_bE6Cy9MHRwC3EvVw4eMBgEYpYn3ot44ODKCtEcz5Yv8wpIZ2TaYQ)    |   [No](https://c.gle/ANiao5o-T-0M4AbGWDAVTV5Aabz5-JW6uLRo4hOoRmmmLDls6YLZAdF9wZwsde9R_qDfJDv77CNr26ibpE8NPd7KZu6mJNkUl-Gj6J4P8ZbRXkNgT-VP0t9wl9l8dfu6xH-EW487YwkV1ZV3TO7uP67GhFPYjVuq87ISh3Ca8XVJ8PNz6q2palh4iTN9eIdBYd0hva8Wd-LHlXbVE_AVOP6Qoy5kicLD8sdvsuMZ9tpZE-mnuAsQrDWM0g)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/0/#m_882451286510093779_)  |
 | ----- |
 
-23. ## (email) from: YouTube legal support team \<legal+0rh36hxuz30z02o@support.youtube.com\>; to: karel.test.special@gmail.com
+23. ## (email) from: YouTube legal support team \<legal+0rh36hxuz30z02o@support.youtube.com\>; to: [USER_EMAIL_REDACTED]
 
 Fwd: To present new in-depth analysis to you, take full responsibility for the problematic content, and respectfully request an opportunity to make things rightInboxYouTube/Termination  
 ![][image22]
@@ -862,7 +862,7 @@ If you feel that your channel was removed in error, you can learn more about how
 Sincerely,  
 The YouTube Team
 
-On September 7, 2025 karel.test.special@gmail.com wrote:
+On September 7, 2025 [USER_EMAIL_REDACTED] wrote:
 
  
 
@@ -882,7 +882,7 @@ I have absolutely no malicious intent and apologize if any rules or regulations 
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Sat, Sep 6, 2025 at 5:47 AM
 
@@ -908,7 +908,7 @@ THIS IS NOT PHISHING MALWARE
 
 \---------- Forwarded message \---------
 
-From: **Karel Test** \<karel.test.special@gmail.com\>
+From: **Karel Test** \<[USER_EMAIL_REDACTED]\>
 
 Date: Sat, Sep 6, 2025 at 5:42 AM
 
@@ -966,9 +966,9 @@ Karel Decherf
 
 Channel: @KarelTest ([https://youtube.com/channel/UCETh\_r8bn3OY09WLPnnANQA](https://youtube.com/channel/UCETh_r8bn3OY09WLPnnANQA))
 
-Email: karel.test.special@gmail.com
+Email: [USER_EMAIL_REDACTED]
 
-24. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: karel.test.special@gmail.com
+24. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [USER_EMAIL_REDACTED]
 
 Review the update on your appeal statusYouTube/Termination  
 ![][image23]
@@ -1018,7 +1018,7 @@ AllPosts (1)RepliesRecommended
   [Community Policy](https://support.google.com/communities/answer/7425194)  
   [Community Overview](https://support.google.com/communities/answer/7424249)
 
-26. ## (email) from: Help Communities \<help-communities@google.com\> ; to: karel.test.special@gmail.com
+26. ## (email) from: Help Communities \<help-communities@google.com\> ; to: [USER_EMAIL_REDACTED]
 
 YouTube Community \- "channel terminated for: "spam, deceptive practices and scams" ?"YouTube/Termination  
 ![][image24]
@@ -1053,7 +1053,7 @@ Google Support
 
 Mountain View, CA 94043
 
-27. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: karel.test.special@gmail.com
+27. ## (email) from YouTube \<[no-reply@youtube.com](mailto:no-reply@youtube.com)\> ; to: [USER_EMAIL_REDACTED]
 
 Review the update on your appeal statusYouTube/Termination  
 ![][image25]
@@ -1065,7 +1065,7 @@ Review the update on your appeal statusYouTube/Termination
 |      Hello Karel Test,   We received an appeal for your channel and it looks like a previous appeal has recently been denied. Please take a look at the email we sent previously for additional details on the rejection.   Thanks,The YouTube team       [Help Center](https://c.gle/ANiao5rJBQy3jMZ0PyVCFkjMklSsAzbOsCP0BfHNfKLSON4ESRxHJF7qg1h4yJyjXC01N7zVE9wkXhhw-GWy4fQ2REy-SVAAipC3QI-4b5U4aL3vSqyB_D-9GA4kNYJ2iGTWRBE4WwwOjbtWv_TzauGd14K0jFBo) • [Email options](https://c.gle/ANiao5qsa2nTRE3VrPquH3svehc86pAptDxOOU3hzeCN0napfwDTDB3F4RbCDs8rYx2HIoUEX2suXUAH4s9IPOr3Onlx82jkOWOUqIdxlwEp7TxLVsnvsVD7o8TtJL2LgKgCvimoWBXjte_npIBurmBX75uSGix34A6xViYLf02eRdluI2Q-ROLL5eLd4h9Pel29i5entCdStvgbYPYXHiDHCUuZml8GgqMOiBI)   You received this mandatory email service announcement to update you about important changes to your YouTube channel or account.   Was this email helpful?  [Yes](https://c.gle/ANiao5rSGCD1syZT9UP78043xa99pN-oc6r86ipt8-TDE5rEJGi0lpZNkBO4FCcHhH3yZeMiZyVuV2IYR4SCjP03IEqBDXLhxLD36cJ9-1v_ccShg1bIP_LhQwz3ttCaQtxRNr3hlEnPNCh9wqZZDyYAMDztn-5-t7pNd2lWGOiSLSmqjLqoIw_NOyAwqk2eMk8TQu0R-h8R_lCT9DNSB5kwgmcuZJCMBvUajJHPglq93x0fzYNMsE4__A)    |   [No](https://c.gle/ANiao5qaEE5chabzZEccE-PODHUBnoaOJYiPHPDPiDxlyuF_8htdK7pmLnsXsMH1bwofgiZ_qGaqRLh_yYUlvRfPASYY6XdtfVP1wa7Rks-JOkitUJH5Vt9ZzoBtgLFy3zg9I-cJbe0SNDIVRq9xq9WJNBc77hx9txxHlEuM_P9VbLO54akfyYM17YCMGk4FiiWqBIiSppOWv_54tYKpTUy597uFEl1zJ6mQlfmGSo3J4JozORcUhjKVRA)        © 2025 [Google LLC d/b/a YouTube, 901 Cherry Ave, San Bruno, CA 94066](https://mail.google.com/mail/u/0/#m_3891584407304835856_)  |
 | ----- |
 
-28. ## (webform) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: https://support.google.com/chrome\_webstore/contact/one\_stop\_support
+28. ## (webform) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: https://support.google.com/chrome\_webstore/contact/one\_stop\_support
 
 CWS support form 2025-09-09 16.36.49  
 \[Chrome Web Store Developer Support\]  
@@ -1086,9 +1086,9 @@ Thank you for your assistance.
 Sincerely,
 
 Karel Decherf  
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 
-29. ## (email) from chromewebstore-dev-support@google.com ; to: karel.test.special@gmail.com
+29. ## (email) from chromewebstore-dev-support@google.com ; to: [USER_EMAIL_REDACTED]
 
 \[4-8109000040067\] Your Chrome Web Store Support ticket has been createdYouTube/Termination  
 ![][image26]
@@ -1132,7 +1132,7 @@ Chrome Web Store Developer Support
 
 [Branding Guidelines](https://developer.chrome.com/webstore/branding) 
 
-30. ## (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: Jpoehnelt | [jpoehnelt@google.com](mailto:jpoehnelt@google.com) | Google Workspace Developer Relations team, AMA | 
+30. ## (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: Jpoehnelt | [jpoehnelt@google.com](mailto:jpoehnelt@google.com) | Google Workspace Developer Relations team, AMA | 
 
 1. ### Reddit Post \- r/googleworkspacedevs \- jpoehnelt
 
@@ -1178,14 +1178,14 @@ Community Guide
 [View all moderators](https://www.reddit.com/mod/googleworkspacedevs/moderators/)  
 [Reddit Rules](https://www.redditinc.com/policies/content-policy)[Privacy Policy](https://www.reddit.com/policies/privacy-policy)[User Agreement](https://www.redditinc.com/policies/user-agreement)[Accessibility](https://support.reddithelp.com/hc/sections/38303584022676-Accessibility)[Reddit, Inc. © 2025\. All rights reserved.](https://redditinc.com/)
 
-2. ### (email) from: [karel.test.special@gmail.com](mailto:karel.test.special@gmail.com) ; to: [jpoehnelt@google.com](mailto:jpoehnelt@google.com) 
+2. ### (email) from: [[USER_EMAIL_REDACTED]](mailto:[USER_EMAIL_REDACTED]) ; to: [jpoehnelt@google.com](mailto:jpoehnelt@google.com) 
 
 [https://mail.google.com/mail/u/0/\#all/GTvVlcSGLdbTbVxZSSJzlcjnDfrwqJQkjkWmzDFvqXKBRhpKbZSJBGbSRbfhdblZHrXmGrwcbzSvf](https://mail.google.com/mail/u/0/#all/GTvVlcSGLdbTbVxZSSJzlcjnDfrwqJQkjkWmzDFvqXKBRhpKbZSJBGbSRbfhdblZHrXmGrwcbzSvf) 
 
 Critical Developer Block: Cross-Platform Issue (YouTube \<\> Workspace) Blocking Add-on PublicationInboxYouTube/Termination  
 ![][image31]
 
-|  Karel Test \<karel.test.special@gmail.com\>  | Sep 10, 2025, 4:42 PM |  |  |
+|  Karel Test \<[USER_EMAIL_REDACTED]\>  | Sep 10, 2025, 4:42 PM |  |  |
 | :---- | ----: | ----: | ----: |
 |  to jpoehnelt  |  |  |  |
 
@@ -1363,7 +1363,7 @@ Thank you for your assistance.
 Sincerely,
 
 Karel Decherf  
-karel.decherf@gmail.com
+[USER_EMAIL_REDACTED]
 
 2. ### Antwoord van CWS support team
 

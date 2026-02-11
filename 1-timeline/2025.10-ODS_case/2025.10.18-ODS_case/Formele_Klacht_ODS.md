@@ -1,5 +1,5 @@
 **AAN:** Gecertificeerde instantie voor buitengerechtelijke geschillenbeslechting (ODS)
-**VAN:** Karel Decherf (karel.test.special@gmail.com)
+**VAN:** Karel Decherf ([USER_EMAIL_REDACTED])
 **BETREFT:** Formele klacht tegen Google Ireland Limited (YouTube) wegens schending van de Digital Services Act (DSA)
 **DATUM:** 30 september 2025
 

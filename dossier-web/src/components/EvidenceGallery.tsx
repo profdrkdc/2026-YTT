@@ -104,9 +104,22 @@ const EvidenceGallery = ({ evidence }: EvidenceGalleryProps) => {
                   </Button>
                 </Box>
               );
-            case 'markdown':
-              return <MarkdownFetcher src={item.path} title={item.title} description={item.description} />;
-            default:        return <Typography color="error">Unknown media type: {item.type}</Typography>;
+                  case 'markdown':
+                    return (
+                      <Box sx={{ height: '100%' }}>
+                        <Typography variant="h6" gutterBottom>{item.title}</Typography>
+                        <Accordion variant="outlined" sx={{ bgcolor: '#fdfdfd' }}>
+                          <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                            <Typography variant="subtitle2" color="primary">View Document Content</Typography>
+                          </AccordionSummary>
+                          <AccordionDetails sx={{ p: 0 }}>
+                            <MarkdownFetcher src={item.path} />
+                          </AccordionDetails>
+                        </Accordion>
+                        <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>{item.description}</Typography>
+                      </Box>
+                    );
+                  default:        return <Typography color="error">Unknown media type: {item.type}</Typography>;
     }
   };
 

@@ -1,14 +1,12 @@
 import { useState, useEffect } from 'react';
-import { Box, Typography } from '@mui/material';
+import { Typography } from '@mui/material';
 import MarkdownRenderer from './MarkdownRenderer';
 
 interface MarkdownFetcherProps {
   src: string;
-  title: string;
-  description: string;
 }
 
-const MarkdownFetcher = ({ src, title, description }: MarkdownFetcherProps) => {
+const MarkdownFetcher = ({ src }: MarkdownFetcherProps) => {
   const [content, setContent] = useState<string>('Loading markdown content...');
   const [error, setError] = useState<string | null>(null);
 
@@ -29,15 +27,13 @@ const MarkdownFetcher = ({ src, title, description }: MarkdownFetcherProps) => {
   }, [src]);
 
   return (
-    <Box sx={{ p: 2, border: '1px solid #ddd', borderRadius: 1, height: '100%', overflowY: 'auto' }}>
-      <Typography variant="h6" gutterBottom>{title}</Typography>
+    <>
       {error ? (
         <Typography color="error">{error}</Typography>
       ) : (
         <MarkdownRenderer content={content} />
       )}
-      <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>{description}</Typography>
-    </Box>
+    </>
   );
 };
 

@@ -4,7 +4,7 @@
     "title": "Channel Creation Logs",
     "category": "Data",
     "type": "csv",
-    "path": "/evidence/2025.06-creation.channel.kareltest/channel images.csv",
+    "path": "evidence/1-timeline/2025.06-creation.channel.kareltest/channel images.csv",
     "description": "Timestamped log of channel image creation, proving account activity start."
   },
   {
@@ -12,7 +12,7 @@
     "title": "Malicious Ad Incident Report",
     "category": "Document",
     "type": "html",
-    "path": "/evidence/2025.08.a-report-malicious-advertisement/incident_report.md",
+    "path": "evidence/1-timeline/2025.08.a-report-malicious-advertisement/incident_report.md",
     "description": "Report documenting YouTube's failure to remove a deepfake scam ad reported by the user."
   },
   {
@@ -20,7 +20,7 @@
     "title": "OCR Combi Demo Video",
     "category": "Video",
     "type": "video",
-    "path": "/evidence/2025.07-workplace.marketplace/content-OCR combi.webm",
+    "path": "evidence/1-timeline/2025.07-workplace.marketplace/content-OCR combi.webm",
     "description": "Demonstration of the OCR Combi tool, showing legitimate OAuth usage."
   },
   {
@@ -28,7 +28,7 @@
     "title": "Playlist Collector Demo",
     "category": "Video",
     "type": "video",
-    "path": "/evidence/2025.07-workplace.marketplace/content-YouTube Playlist Collector 1.0 verification vi.webm",
+    "path": "evidence/1-timeline/2025.07-workplace.marketplace/content-YouTube Playlist Collector 1.0 verification vi.webm",
     "description": "Verification video for the YouTube Playlist Collector tool."
   },
   {
@@ -36,7 +36,7 @@
     "title": "Google Cloud Verification Requirements",
     "category": "Document",
     "type": "html",
-    "path": "/evidence/2025.07-workplace.marketplace/proof-Verification requirements - Google Cloud Platform Console Help.html",
+    "path": "evidence/1-timeline/2025.07-workplace.marketplace/proof-Verification requirements - Google Cloud Platform Console Help.html",
     "description": "Official Google Cloud documentation regarding app verification."
   },
   {
@@ -44,7 +44,7 @@
     "title": "AI Studio Reader Demo",
     "category": "Video",
     "type": "video",
-    "path": "/evidence/2025.08.b-cws/content-aistudioreader.webm",
+    "path": "evidence/1-timeline/2025.08.b-cws/content-aistudioreader.webm",
     "description": "Demonstration of the AI Studio Reader extension."
   },
   {
@@ -52,7 +52,7 @@
     "title": "CWS Video Proof with Marker",
     "category": "Screenshot",
     "type": "image",
-    "path": "/evidence/1-timeline/2025.08.b-cws/proof-YTvideo_for_CWS_with-marker.png",
+    "path": "evidence/1-timeline/2025.08.b-cws/proof-YTvideo_for_CWS_with-marker.png",
     "description": "Evidence from the Chrome Web Store submission, with markers highlighting key details."
   },
   {
@@ -60,7 +60,7 @@
     "title": "First Termination Email",
     "category": "Screenshot",
     "type": "image",
-    "path": "/evidence/2025.08.15 ChannelTermination-firstEmail.png",
+    "path": "evidence/1-timeline/2025.08.15 ChannelTermination-firstEmail.png",
     "description": "The initial automated email from YouTube notifying of channel termination."
   },
   {
@@ -68,7 +68,7 @@
     "title": "Appeal Denied Notification",
     "category": "Screenshot",
     "type": "image",
-    "path": "/evidence/2025.08.16 ChannelTermination-appealDenied-1-redacted.png",
+    "path": "evidence/1-timeline/2025.08.16 ChannelTermination-appealDenied-1-redacted.png",
     "description": "Screenshot of the first appeal rejection."
   },
   {
@@ -76,7 +76,7 @@
     "title": "X/Twitter Escalation Thread",
     "category": "Social",
     "type": "image",
-    "path": "/evidence/2025.09.15 15.20 X thread YTT.png",
+    "path": "evidence/1-timeline/2025.09.15 15.20 X thread YTT.png",
     "description": "Screenshot of the public outreach to @TeamYouTube on X."
   },
   {
@@ -84,7 +84,7 @@
     "title": "X/Twitter Interaction Data",
     "category": "Social",
     "type": "json",
-    "path": "/evidence/2025.09.08 @kareltest_  X @TeamYoutube.json",
+    "path": "evidence/1-timeline/2025.09.08 @kareltest_  X @TeamYoutube.json",
     "description": "Raw data of the X interaction highlighting the 'harmful software' misinterpretation."
   }
 ]

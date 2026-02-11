@@ -16,7 +16,7 @@
     - [x] Create `EvidenceGallery.tsx` with filtering by category
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Evidence Gallery & Components'
 
-## Phase 3: Integration & Deep Linking
+## Phase 3: Integration & Deep Linking [checkpoint: da72796]
 - [x] Task: Connect Timeline to Evidence [7802b69]
     - [x] Add "View Proof" buttons to `TimelineView` components
 - [x] Task: Implement deep linking for evidence [7802b69]

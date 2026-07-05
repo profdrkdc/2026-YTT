@@ -14,14 +14,6 @@ Here is the systemic Catch-22 Google has created:
 
 As a result, I am now legally and technically barred from uploading the very verification videos Google requires to let me publish software. One part of Google demands a video; another part of Google bans me for life if I try to host it.
 
-### The Battle for Recourse (Ignoring the DSA)
-
-I went through the official European Out-of-Court Dispute Settlement (ODS) process under the Digital Services Act. I submitted the case to the certified body, Appeals Centre Europe (ACE). 
-
-Google ignored the proceedings entirely. ACE ruled in my favor on both counts (Cases #2025-012481-YT and #2025-012487-YT), ordering YouTube to restore my developer channel. Google has refused to execute these decisions.
-
-This is not a simple user error. It is a systemic architectural failure. Google has built disconnected, automated product silos (Google Cloud OAuth vs. YouTube Abuse) with no internal communication or human escalation path, leaving independent developers as collateral damage.
-
 All my attempts to find a human at Google who can understand this cross-product conflict have failed. The support system is a maze of automated rejections and dead ends. I have exhausted every possible internal channel over a multi-week period:
 - **Automated Appeals:** Submitted multiple detailed appeals; all rejected by bots within minutes.
 - **Public Social Media:** `@TeamYouTube` replied with automated templates pointing back to the help center.
@@ -29,6 +21,14 @@ All my attempts to find a human at Google who can understand this cross-product 
 - **Legal Email:** `legal@support.youtube.com` returned automated links to consumer forms.
 - **Cross-Platform:** Both Chrome Web Store and Google Cloud support stated they cannot assist with YouTube bans, completing the Catch-22 loop.
 - **Developer Relations:** Reached out to Google Workspace DevRel, which went unanswered.
+
+### The Battle for Recourse (Ignoring the DSA)
+
+I went through the official European Out-of-Court Dispute Settlement (ODS) process under the Digital Services Act. I submitted the case to the certified body, Appeals Centre Europe (ACE). 
+
+Google ignored the proceedings entirely. ACE ruled in my favor on both counts (Cases #2025-012481-YT and #2025-012487-YT), ordering YouTube to restore my developer channel. Google has refused to execute these decisions.
+
+This is not a simple user error. It is a systemic architectural failure. Google has built disconnected, automated product silos (Google Cloud OAuth vs. YouTube Abuse) with no internal communication or human escalation path, leaving independent developers as collateral damage.
 
 I have published the complete timeline, legal filings, and the certified ACE decisions here: https://github.com/profdrkdc/2026-YTT
 

@@ -98,6 +98,7 @@ Dit spoor loopt parallel aan Spoor 1 en is bedoeld om de druk op te voeren door 
 #### Actie 2.2: Creëer een Centraal "Manifest"
 *   **Doel:** Een openbare, niet-verwijderbare locatie met alle bewijsstukken.
 *   **Hoe:** Gebruik een GitHub Gist, een blogpost op uw eigen website, of een Google Doc. Publiceer hier de volledige tijdlijn, de forensische analyse, screenshots en de anonieme casestudies van lotgenoten. Dit wordt de centrale bron voor journalisten en beleidsmakers.
+*   **Status:** ✅ **VOLTOOID** (Gepubliceerd op GitHub: https://github.com/profdrkdc/2026-YTT op 5 juli 2026)
 
 #### Actie 2.3: Strategische Publieke Communicatie
 *   **Doel:** Maximale zichtbaarheid genereren en de juiste teams binnen Google bereiken.
@@ -105,6 +106,7 @@ Dit spoor loopt parallel aan Spoor 1 en is bedoeld om de druk op te voeren door 
     1.  **Gebruik X.com (Twitter) strategisch:** Start een feitelijke, compacte thread. Vermijd emotionele tirades.
     2.  **Tag de juiste accounts:** Tag **@TeamYouTube** (officieel supportkanaal), **@YouTubeCreators**, **@GoogleDevs**, en **@GWorkspace**. Link naar uw manifest.
     3.  **Update uw thread:** Voeg nieuwe ontwikkelingen toe, zoals de ontdekking van de "$29 support paywall" of de formele klacht bij de DSA-toezichthouder.
+*   **Status:** ⏳ **IN UITVOERING** (Hacker News-post in voorbereiding, 5 juli 2026; Reddit-account geshadowbanned)
 
 #### Actie 2.4: Benaderen van Tech-Journalisten en Influencers
 *   **Doel:** Media-aandacht genereren voor het verhaal.
@@ -125,6 +127,7 @@ Dit spoor positioneert u niet als slachtoffer, maar als een expert die een beroe
     1.  **Identificeer de Toezichthouder:** De "Digital Services Coordinator" (DSC) in uw EU-land is de relevante autoriteit. Voor België is dit het **BIPT**, voor Nederland de **ACM**.
     2.  **Documenteer de schending:** Bewaar de generieke e-mails als bewijs.
     3.  **Dien de formele klacht in:** Volg de procedure van uw nationale DSC. Voor het BIPT (België) kan dit door het formulier op hun website in te vullen en te mailen naar **klachtdsa@bipt.be**.
+*   **Status:** ✅ **VERZONDEN** (Ingediend bij het Belgische BIPT op 5 juli 2026 via klachtdsa@bipt.be)
 
 #### Actie 3.2: Overweeg Buitengerechtelijke Geschillenbeslechting (ODS)
 *   **Doel:** Een sneller en kosteneffectiever alternatief voor een volledige juridische procedure.

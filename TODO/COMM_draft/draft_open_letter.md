@@ -22,6 +22,14 @@ Google ignored the proceedings entirely. ACE ruled in my favor on both counts (C
 
 This is not a simple user error. It is a systemic architectural failure. Google has built disconnected, automated product silos (Google Cloud OAuth vs. YouTube Abuse) with no internal communication or human escalation path, leaving independent developers as collateral damage.
 
+All my attempts to find a human at Google who can understand this cross-product conflict have failed. The support system is a maze of automated rejections and dead ends. I have exhausted every possible internal channel over a multi-week period:
+- **Automated Appeals:** Submitted multiple detailed appeals; all rejected by bots within minutes.
+- **Public Social Media:** `@TeamYouTube` replied with automated templates pointing back to the help center.
+- **Registered Mail:** Sent a physical letter to Google Ireland in Dublin, which went ignored.
+- **Legal Email:** `legal@support.youtube.com` returned automated links to consumer forms.
+- **Cross-Platform:** Both Chrome Web Store and Google Cloud support stated they cannot assist with YouTube bans, completing the Catch-22 loop.
+- **Developer Relations:** Reached out to Google Workspace DevRel, which went unanswered.
+
 I have published the complete timeline, legal filings, and the certified ACE decisions here: https://github.com/profdrkdc/2026-YTT
 
 I am posting this to warn fellow developers about the precarity of building on these platforms, and in the hope that someone at Google Developer Relations sees this and addresses the structural conflict in their verification pipeline.

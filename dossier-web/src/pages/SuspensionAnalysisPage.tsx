@@ -332,19 +332,19 @@ const SuspensionAnalysisPage = () => {
                   <Stack direction="row" spacing={1} alignItems="center">
                     <SettingsSuggestIcon color="action" fontSize="small" />
                     <Typography variant="caption" color="text.primary">
-                      GCP OAuth Requirements doc: [View Excerpt](file:///home/kareltestspecial/workspace/8-Dossiers/YTT/2026-YTT/2-YouTube-Policy/google-cloud-verification-requirements-excerpt.md)
+                      GCP OAuth Requirements doc: [View Excerpt](file:///home/kareltestspecial/INFO/karel/YTT/2026-YTT/2-YouTube-Policy/google-cloud-verification-requirements-excerpt.md)
                     </Typography>
                   </Stack>
                   <Stack direction="row" spacing={1} alignItems="center">
                     <PlayCircleOutlineIcon color="action" fontSize="small" />
                     <Typography variant="caption" color="text.primary">
-                      Developer guidelines: [Video Guidelines TXT](file:///home/kareltestspecial/workspace/8-Dossiers/YTT/2026-YTT/3-CONTRA-BEWIJS/3.1-Videos-SchriftelijkeBeschrijving/2025.07-workplace.marketplace/google_workspace_add-ons_VIDEO-GUIDELINES.txt)
+                      Developer guidelines: [Video Guidelines TXT](file:///home/kareltestspecial/INFO/karel/YTT/2026-YTT/3-counter-evidence/3.1-Videos-WrittenDescription/2025.07-workplace.marketplace/google_workspace_add-ons_VIDEO-GUIDELINES.txt)
                     </Typography>
                   </Stack>
                   <Stack direction="row" spacing={1} alignItems="center">
                     <SecurityIcon color="action" fontSize="small" />
                     <Typography variant="caption" color="text.primary">
-                      Communication Drafts: [draft_pilot_program_appeal.md](file:///home/kareltestspecial/workspace/8-Dossiers/YTT/2026-YTT/TODO/COMM_draft/draft_pilot_program_appeal.md)
+                      Communication Drafts: [draft_pilot_program_appeal.md](file:///home/kareltestspecial/INFO/karel/YTT/2026-YTT/TODO/COMM_draft/draft_pilot_program_appeal.md)
                     </Typography>
                   </Stack>
                 </Stack>

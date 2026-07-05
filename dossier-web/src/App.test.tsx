@@ -27,6 +27,6 @@ describe('App', () => {
         </ThemeProvider>
       </BrowserRouter>
     );
-    expect(screen.getByRole('heading', { name: /home/i })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /Overview of the YouTube Channel/i })).toBeInTheDocument();
   });
 });

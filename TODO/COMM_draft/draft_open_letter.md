@@ -1,32 +1,32 @@
-**Title: An Open Letter to the Developer Community: Caught in Google's Systemic "Catch-22"**
+**Title: Google Developer Catch-22: Automated YouTube ban blocks verification (Google ignores DSA rulings)**
 
 **To:** The Developer Community, Tech Journalists, and our Colleagues at Google
 
-Since [Year], I have been a developer in the Google ecosystem, building tools that integrate with and, I hope, improve the services we all use. Today, my business is at a standstill, not because of a technical bug or a market shift, but because I am trapped in a paradoxical and broken process within Google itself.
+Since 2024, I have been developing software within the Google ecosystem, publishing extensions and add-ons. Today, my development activities are at a complete standstill. Not due to a bug or policy violation on my part, but because I am trapped in a broken corporate process where Google’s automated abuse systems directly conflict with its developer verification requirements.
 
-I am writing this not just to seek a resolution for my own case, but as a warning to all developers who rely on Google's platforms: this can happen to you.
+Worse, even after securing two legally certified dispute settlement decisions under the European Digital Services Act (DSA) ordering Google to restore my account, they have simply ignored them.
 
-Here is the "catch-22" Google has created for me:
-1.  To publish my software in the Chrome Web Store, Google **requires** me to provide a video of my app's OAuth consent screen. This video **must** be hosted on a YouTube channel.
-2.  My YouTube channel, which existed for this purpose, was recently terminated by an automated system for an unspecified, generic reason ("spam/scam"). My appeal was denied by another automated system within minutes.
-3.  Because of YouTube's "channel termination circumvention" policy, I am now permanently banned from ever owning, accessing, or creating another YouTube channel.
+Here is the systemic Catch-22 Google has created:
 
-The very process Google demands of me is the one its own automated systems now prevent me from completing. My ability to work, to publish updates, and to support my users has been completely severed by a conflict between two disconnected parts of the same company.
+1. **The Verification Mandate:** To publish or update add-ons on the Google Workspace Marketplace (and Chrome Web Store), developers are required to verify their OAuth consent screen. A mandatory step of this verification is uploading a YouTube video demonstrating the OAuth flow in action.
+2. **The Automated Ban:** In August 2025, my YouTube channel—which existed solely to host these unlisted developer verification videos—was terminated by an automated algorithm for "spam, deceptive practices, and scams" immediately after uploading a demo video for a Chrome Extension. My automated appeal was rejected within minutes.
+3. **The Permanent Lock-out:** Under YouTube's "circumvention policy," a channel termination bans you from ever owning or creating another channel. 
 
-This is not a user error. This is a **systemic failure**. It is the predictable outcome of a corporate structure that allows its product silos to operate without accountability to one another, all while relying on opaque, context-blind algorithms to make decisions with career-ending consequences.
+As a result, I am now legally and technically barred from uploading the very verification videos Google requires to let me publish software. One part of Google demands a video; another part of Google bans me for life if I try to host it.
 
-All my attempts to find a human at Google who can understand this cross-product conflict have failed. The support system is a maze of automated rejections and dead ends.
+### The Battle for Recourse (Ignoring the DSA)
 
-This is not the kind of ecosystem that fosters innovation. It is an environment where developers are treated as disposable, and where our businesses can be destroyed overnight by a flawed algorithm without any meaningful recourse.
+I went through the official European Out-of-Court Dispute Settlement (ODS) process under the Digital Services Act. I submitted the case to the certified body, Appeals Centre Europe (ACE). 
 
-I am not asking for special treatment. I am asking for a process that is transparent, rational, and respects the developers who build on Google's platforms. I am asking for a human review by someone who can see beyond the walls of their product silo.
+Google ignored the proceedings entirely. ACE ruled in my favor on both counts (Cases #2025-012481-YT and #2025-012487-YT), ordering YouTube to restore my developer channel. Google has refused to execute these decisions.
 
-I have published a complete record of this case, including all communications and a technical analysis, here: [Link to your public evidence page].
+This is not a simple user error. It is a systemic architectural failure. Google has built disconnected, automated product silos (Google Cloud OAuth vs. YouTube Abuse) with no internal communication or human escalation path, leaving independent developers as collateral damage.
 
-I urge my fellow developers to recognize the precarity of our position. I urge journalists to investigate these opaque systems of platform governance. And I urge someone at Google to look at this case and recognize the architectural flaw in your own processes before more developers are harmed.
+I have published the complete timeline, legal filings, and the certified ACE decisions here: https://github.com/profdrkdc/2026-YTT
+
+I am posting this to warn fellow developers about the precarity of building on these platforms, and in the hope that someone at Google Developer Relations sees this and addresses the structural conflict in their verification pipeline.
 
 Sincerely,
 
-[Your Name]
-[Your Developer Studio/Company Name]
-[Link to your X/Twitter profile or Website]
+Karel Decherf
+https://github.com/profdrkdc/2026-YTT

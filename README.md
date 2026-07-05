@@ -12,6 +12,19 @@ This repository contains the complete case timeline, documentation, and evidence
 
 ---
 
+## 🔍 Internal Escalation Attempts (All Exhausted)
+
+Before seeking out-of-court settlement and regulatory action, I exhausted every possible internal support and escalation channel within Google and YouTube over a multi-week period:
+
+1. **Automated Appeals:** Submitted multiple appeals explaining the developer context. All were rejected within minutes by automated systems.
+2. **Public Social Media:** Contacted `@TeamYouTube` on X (Twitter), only to receive boilerplate responses pointing back to the automated appeals.
+3. **Physical Registered Mail:** Sent a formal physical letter to `Google Ireland Limited` in Dublin detailing the developer blockages.
+4. **Legal Support Contact:** Emailed `legal@support.youtube.com`, which resulted in automated responses redirecting to the standard consumer appeals page.
+5. **Cross-Platform Support:** Opened tickets with **Chrome Web Store Developer Support** and attempted to reach **Google Cloud Platform Support**, but both stated they could not help with YouTube accounts, completing the Catch-22 loop.
+6. **Developer Relations:** Reached out to Google Workspace Developer Relations (DevRel), which went unanswered.
+
+---
+
 ## ⚖️ Why this is a DSA Violation
 
 Google has systematically failed to comply with the European Union's **Digital Services Act (DSA)** (Regulation (EU) 2022/2065):

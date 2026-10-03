@@ -6,7 +6,7 @@
 
 - **Aan:** klachtdsa@bipt.be
 - **Van:** karel.test.special@gmail.com — zelfde account als de oorspronkelijke klacht
-- **Referenties:** BIPT 2026-00003-Youtube · Agora CMT-00003689-K1X · ACE #2025-012481-YT en #2025-012487-YT · **DSA Art. 17, 20, 21(2), 21(5)**
+- **Referenties:** BIPT 2026-00003-Youtube · Agora CMT-00003689-K1X · ACE #2025-012481-YT en #2025-012487-YT · **DSA Art. 17, 20, 21(2), 21(5)** · YouTube-helppagina `support.google.com/youtube/answer/2802168`
 - **Bijlagen:** overwegen of in te dienen — zie onderaan
 
 ---
@@ -96,7 +96,37 @@ Dit hoofdstuk corrigeert een eerdere formulering van mijzelf. Ik had geschreven 
 
 **Over de bindendheid van de ACE-uitspraken, enigszins gecorrigeerd.** Ik schreef eerder dat de uitspraken "bindend" zouden zijn onder verwijzing naar Art. 21(5). Dat is **onjuist**: Art. 21(2) stelt uitdrukkelijk dat een gecertificeerde geschilleninstantie **geen bindende beslissing** kan opleggen, en Art. 21(5) gaat over kostenvergoeding. Twee ACE-zaken zijn in mijn voordeel beslist (16 december 2025). Wat rest zijn twee afdwingbare verplichtingen die niet zijn nagekomen: de **te-goeder-trouwplicht** van Art. 21(2), en de **kostenvergoeding** van Art. 21(5). Ik claim dus geen uitvoerbaar vonnis — daarvoor is de grondslag er niet.
 
-### 6. Een toezichthouder kan Google aanvallen waar niemand anders dat kon
+### 6. De eigen regels van YouTube, en wat er daarmee gebeurde
+
+Ik wil dit onderdeel apart zetten, omdat YouTube zelf zijn proces beschrijft op een pagina die **36 keer in de afwijzingsmails naar mij is teruggelinkt**: `support.google.com/youtube/answer/2802168`.
+
+YouTube schrijft daar zelf:
+
+> *"If your channel is terminated, you will get an **email explaining the reason for the termination**."*
+>
+> *"Creators have up to 1 year from the date their channel was terminated to submit an appeal. **Creators can only submit two appeals within the 1 year period.**"*
+>
+> *"**We may send automated replies if you've already submitted an appeal that has previously been reviewed or if you have already exceeded your appeal limit.**"*
+
+**Drie openbare toezeggingen van de platformaanbieder, en drie niet-nagekomen beloften.**
+
+**a) De belofte van een verklaring.** YouTube belooft een e-mail met de reden van de beëindiging. Die e-mail is gekomen, en bevatte een *beleidsnaam* — geen verklaring. Dat is een tekortkoming die **niet alleen volgens de DSA geldt, maar volgens YouTube's eigen gewoontepagina**.
+
+**b) De limiet van twee beroepen.** YouTube staat maximaal twee beroepen toe binnen één jaar. Ik heb die twee gebruikt: het eerste werd in circa 14 uur afgewezen, het tweede werd automatisch afgewezen omdat *"there has recently been an appeal"*. Daarmee was de interne procedure uitgeput — op twee dagen na de sanctie.
+
+**c) De sleutelzin: de automatische bevestiging is geen beoordeling.** YouTube schrijft zelf dat er *geautomatiseerde antwoorden* worden verstuurd wanneer de beroepslimiet is overschreden. Dat is precies de mail die ik zeven keer heb ontvangen:
+
+> *"Thank you for contacting us about restoring access to your Google Account. **Google will review your appeal as soon as possible. Most requests take 2 business days to review.**"*
+
+Volgens de eigen documentatie van YouTube was dit bericht dus **geen beoordeling, maar een geautomatiseerd bericht dat de limiet was bereikt** — in de bewoording van een belofte om binnen twee werkdagen te reviewen.
+
+**Waarom dit de tekortkoming erger maakt dan het ogenschijnlijk doet.** Een platform dat een aanvraag weigert omdat de limiet is bereikt, kan dat zeggen. YouTube deed dat niet. Het genereerde zeven keer een ticketnummer, zeven keer de zinsnede *"we zullen je beroep zo snel mogelijk beoordelen"*, en heeft het daarbij gelaten. Dat is een **redelijke verwachting die het systeem zelf heeft opgewekt en die volgens de eigen regels van het systeem niet klopte.** Een gebruiker die zeven bevestigingen van beoordeling ontvangt, mag niet worden tegengeworpen dat zijn beroepen niet in aanmerking werden genomen — en YouTube heeft hem in die verwachting gelaten gedurende zes weken en twee jaar.
+
+**En dan de vraag die art. 20 opriep.** Na het uitputten van de twee beroepen ben ik alle andere interne kanalen gaan gebruiken: de webformulieren, de brief aan Legal Support, Chrome Web Store Support, Google Cloud Support, Developer Relations, en een brief naar Google Ireland. **Elk van die kanalen verwees mij terug naar het formulier dat ik al tweemaal had gebruikt** — de 3 september 2025 bijvoorbeeld: *"If you feel that your channel was blocked or removed in error, you can learn more about how to appeal your suspension."*
+
+**Dat is de Art. 20-tekortkoming in één zin: de procedure was zo ingesteld dat zij, na twee dagen, uitputtend was, en daarna weigerde elk kanaal om te functioneren omdat de procedure uitputtend was.** Het DSA vraagt een *effectieve* interne klachtafhandeling. Een mechanisme dat zichzelf sluit op dag twee en daarna uitsluitend naar zichzelf verwijst, is dat niet.
+
+### 7. Een toezichthouder kan Google aanvallen waar niemand anders dat kon
 
 Uit de stukken blijkt dat de enige momenten waarop YouTube iets concreets zei, momenten waren waarop **Karel zelf had gevraagd**. Geen enkel kanaal — geen appealformulier, geen beroep, geen ticket, geen brief — heeft YouTube één vraag doen beantwoorden.
 
@@ -120,5 +150,14 @@ Karel Decherf
 - **De commentaarhypothese** ("you're killing it, Jules", 12/8). Onbevestigbaar tegen YouTube en het is een zwak signaal. Niet gebruiken.
 
 **Overweging of als bijlage mee te sturen:** het publieke dossier (`https://github.com/profdrkdc/2026-YTT`) bevat de volledige tijdlijn en het TakeOut-materiaal. Dat is al het geval sinds juli, dus het meesturen kost geen moeite en de klacht verliest niets aan geloofwaardigheid. **Beslis zelf of je dit wilt** — het is een openbare repo en dat maakt het dossier permanent vindbaar voor de partij die je aanklaagt.
+
+**Bij te overwegen als bijlage:** `1-timeline/2025.09-2025.12-ODS_YT_antwoorden/` (drie `.eml`-bestanden van YouTube Legal Support + analyse) en `3-counter-evidence/3.1-TakeOut-2025.08.16/history/` (de kijkgeschiedenis, 245 gebeurtenissen tot 14/8 06:48). Het zijn de twee objectieve stukken in het dossier die een toezichthouder zonder uitleg kan wegen.
+
+**Uit formuleren gebakken YouTube's eigen regels over het beroepsformulier**, bevestigd op `support.google.com/youtube/answer/2802168`:
+- **De pagina:** https://support.google.com/youtube/answer/2802168
+- **Het formulier:** https://support.google.com/accounts/contact/suspended?p=youtube
+- In het dossier staan vier sessie-specifieke varianten (verschillende `sjid`), wat overeenkomt met meerdere invullingen.
+- **De regel:** *"Creators can only submit two appeals within the 1 year period."* → dus twee, niet één.
+- **En de sleutelzin:** *"We may send automated replies if you've already submitted an appeal that has previously been reviewed or if you have already exceeded your appeal limit."* → de zeven "we reviewen je beroep"-bevestigingen waren dus volgens YouTube zelf geen beoordeling, maar het limietbericht in de bewoording van een belofte.
 
 **Nog te beslissen:** of §3(b) (de toekomstige filmcampagne) wordt meegestuurd. Het is het meest concrete argument dat de zaak van "verleden" naar "actueel verlies" tilt, maar het raakt werk waar ik nog niets over publiek heb gemaakt. Zeg het als je er zwaarder of lichter wilt leggen dan ik hier heb gedaan.

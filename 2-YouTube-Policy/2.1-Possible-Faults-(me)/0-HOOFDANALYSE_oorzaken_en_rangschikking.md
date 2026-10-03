@@ -108,9 +108,21 @@ Elke hypothese krijgt vier velden: **wat het verklaart**, **wat het niet verklaa
 
 **Wat het niet verklaart.** Waarom de **spambeleidscategorie** en niet "gewelddadige taal". En een commentaar zou normaal tot een commentaarstraf leiden, niet tot een permanente kanaalban.
 
-**Toetsbaar:** deels — de feiten staan in de TakeOut, maar YouTube zal dit nooit bevestigen.
+**Toetsbaar: ja — en de test is uitgevoerd (3 oktober 2026). UITSLAG: O2 verzwakt.**
 
-**Status:** **plausible als bijdragevend signaal, zwak als primaire oorzaak.** Het belang zit in de datum, niet in de waarschijnlijkheid: het is het enige signaal waarvan de plaatsing in de tijd aantoonbaar vóór de sanctie ligt.
+De kijkgeschiedenis uit de take-out van 16 augustus 2025 (245 gebeurtenissen, 20/6 t/m 14/8 06:48) bevat twee beslissende tijdstippen:
+
+| | |
+|---|---|
+| Commentaar geplaatst | **12/08/2025 15:11 CEST** (`13:11:03 UTC`) |
+| Video | `yjEJ7PWXVcA` — kanaal `UCETh_r8bn3OY09WLPnnANQA`, **dus Karels eigen kanaal** |
+| Karel bekeek diezelfde video | **12/08/2025 15:54 CEST** — 43 minuten later |
+
+**Het commentaar stond dus op een video op zijn eigen kanaal, en hij bekeek die video zelf 43 minuten later.** Een commentaar van de maker op zijn eigen kanaal is geen door derden verspreide gebruikersinhoud, maar een notitie aan het eigen kanaal.
+
+**Waarom dit O2 verder verzwakt.** O2 beredeneerde dat een commentaar "met het account van het kanaal" een vlag kan activeren. Dat blijft in theorie mogelijk, maar een maker die op zijn eigen video een grap maakt is geen reële voorwaarde voor een permanente kanaalban, en verklaart de sanctiecategorie (spam/scam) evenmin als vóór. Het was het enige signal met een timestamp in de aanloop — en nu blijkt ook dát te licht om op te steunen.
+
+**Status: van "enige signaal met een timestamp in de aanloop" naar "bijkomende aanwijzing, geen kandidaat-trigger meer".** Bron: [`3-counter-evidence/3.1-TakeOut-2025.08.16/history/00-ANALYSE_kijkgeschiedenis.md`](../../../../3-counter-evidence/3.1-TakeOut-2025.08.16/history/00-ANALYSE_kijkgeschiedenis.md).
 
 ---
 

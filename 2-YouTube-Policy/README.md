@@ -6,7 +6,8 @@
 
 | Feit | Canonieke eigenaar | Opmerking |
 |---|---|---|
-| **Oorzaken van de schorsing + rangschikking + toetsbaarheid** | [`2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md`](2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md) | **Levend document.** Alles over oorzaak, mechanisme, rangorde en welke hypothese welk feit verklaart. Aangemaakt 3 oktober 2026. |
+| **Oorzaken van de schorsing + rangschikking + toetsbaarheid** | [`2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md`](2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md) | **Levend document, van MACCHA.** Alles over oorzaak, mechanisme, rangorde en welke hypothese welk feit verklaart. Aangemaakt 3 oktober 2026. |
+| **Het oordeel van Karel zelf** (disproportionaliteit, ontbrekende waarschuwing, oneerlijk beroepsproces) | [`2.1-Possible-Faults-(me)/0-INTERPRETATIE-Karel-eigen-oordeel.md`](2.1-Possible-Faults-(me)/0-INTERPRETATIE-Karel-eigen-oordeel.md) | **Levend document, van Karel — een MENING, geen bevinding.** CITEERBAAR: §1–§5 zijn zijn eigen woorden en kunnen zonder meer in een brief of klacht worden overgenomen. De analytische kanttekeningen staan in een apart, afgescheiden blok eronder en horen daar niet bij. |
 | **Beleidsteksten van YouTube** | [`YouTube policies.md`](YouTube policies.md) + [`2-YouTube-Policy/`](.) map-root | Ruwe beleidsbronnen; niet samengevat |
 | **Google Cloud / OAuth-verificatie-eis** | [`google-cloud-verification-requirements-excerpt.md`](google-cloud-verification-requirements-excerpt.md) | Bewijsstuk voor de "waarschuwing van 9 augustus"-tijdlijn |
 | **YouTube's eigen fouten / systemische analyse** | [`2.2-Possible-Faults-(YT)/`](2.2-Possible-Faults-(YT)/) | Perspectief van de platformaanbieder; naast het kanaal-perspectief in 2.1 |

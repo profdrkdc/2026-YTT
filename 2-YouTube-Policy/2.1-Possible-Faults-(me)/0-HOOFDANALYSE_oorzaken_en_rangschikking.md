@@ -2,7 +2,7 @@
 
 > **Eigenaar van dit feit:** de geordende oorzaakanalyse van de schorsing van @KarelTest.
 > **Status:** levend document. Laatst herzien 3 oktober 2026.
-> **Relatie tot de andere documenten:** dit bestand is de **canonieke bron**. `1-PossibleFaults_by.me.md` (beide mappen), `AI_ANALYSE_SYNTHESE.md`, `CONCEPTEN_EN_NOTITIES_SYNTHESE.md` en `ANALYSE-JULES.md` zijn ruw materiaal of syntheses van AI-analyses; waar zij een oorzaak noemen, is de rangschikking en toetsbaarheid hier leidend. De samenvatting in `INFO/karel/YTT/YouTube_Schorsing_Dossier_Belangrijkste_Punten.md` §3 verwijst naar dit bestand.
+> **Relatie tot de andere documenten:** dit bestand is de **canonieke bron voor de analyse**. Het **oordeel van Karel zelf** — wat hij vindt van de sanctie, de ontbrekende waarschuwing en het beroepsproces — staat apart in [`0-INTERPRETATIE-Karel-eigen-oordeel.md`](0-INTERPRETATIE-Karel-eigen-oordeel.md) en is een **mening, geen bevinding**. De twee worden nooit samengevoegd. `1-PossibleFaults_by.me.md` (beide mappen), `AI_ANALYSE_SYNTHESE.md`, `CONCEPTEN_EN_NOTITIES_SYNTHESE.md` en `ANALYSE-JULES.md` zijn ruw materiaal of syntheses van AI-analyses; waar zij een oorzaak noemen, is de rangschikking en toetsbaarheid hier leidend. De samenvatting in `INFO/karel/YTT/YouTube_Schorsing_Dossier_Belangrijkste_Punten.md` §3 verwijst naar dit bestand.
 
 ---
 

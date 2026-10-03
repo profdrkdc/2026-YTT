@@ -171,7 +171,11 @@ De kijkgeschiedenis uit de take-out van 16 augustus 2025 (245 gebeurtenissen, 20
 
 **Toetsbaar:** nee.
 
-**Status:** **als signaal sterk, als verklaring onvolledig** — zie O1 voor de reden dat het kanaalniveau werd gekozen.
+**⚡ UPDATE 3 oktober 2026 — deze grondslag is door YouTube zelf genoemd.** In de reacties van YouTube Legal Support op de ODS-melding (30/9/2025 en 27/11/2025) staat: *"We also don't allow content where the main purpose is to trick others into leaving YouTube for another site."* Die tweede grondslag komt **nergens voor in de schorsingsmelding van 15 augustus 2025** en is in ruim dertien maanden nooit aan een video gekoppeld.
+
+Wat hier een hypothese was, is daarmee een **grondslag die de tegenpartij zelf heeft aangevoerd** — maar zonder onderbouwing. Bron: [`1-timeline/2025.09-2025.12-ODS_YT_antwoorden/00-ANALYSE_legal-support-ODS.md`](../../1-timeline/2025.09-2025.12-ODS_YT_antwoorden/00-ANALYSE_legal-support-ODS.md).
+
+**Status: van hypothese naar bevestigde, maar ononderbouwde grondslag.** Dit is het enige inhoudelijke signaal in de hele zaak dat door YouTube zelf is genoemd — en het is het enige dat nog nooit aan een video is gekoppeld.
 
 ---
 
@@ -257,12 +261,16 @@ Dat is een zuiver waarneembaar procedureel feit, en het is sterker dan een bewer
 - **DSA Art. 20** — de interne klacht moet worden behandeld door personeel dat **niet betrokken was bij de oorspronkelijke beslissing**. Het beroep werd binnen **14 uur** afgewezen met de formule *"we reviewed your channel carefully"* — zonder genoemde beoordelaar. Die formulering suggereert menselijke toetsing; de doorlooptijd suggereert dat er geen mens zat.
 - **DSA Art. 21(2)** — *beide partijen moeten te goeder trouw deelnemen* aan de procedure, en de instantie kan **geen bindende beslissing** opleggen. Twee gevolgen, en ze moeten niet worden verward:
   - **YouTube is niet juridisch verplicht de ACE-uitspraken uit te voeren.** Dat is waar, en het mag niet als "bindende vonnissen genegeerd" worden geformuleerd. Het hele dossier doet het overigens wél correct — zie de correctie hieronder.
-  - **Maar YouTube wél verplicht zich tot te-goeder-trouw-deelname.** Uit de eigen stukken blijkt dat YouTube de ACE-procedure volledig heeft genegeerd en zich bij tweede instantie liet vertegenwoordigen door een **default**. Dat is het tegenovergestelde van te goeder trouw handelen, en dát is wel een af te dwingen plicht.
+  - **En YouTube heeft aan die procedure wél deelgenomen.** Zie de correctie hierboven: YouTube Legal Support reageerde op 30/9/2025 en op 27/11/2025, telkens met dezelfde tekst. De tekortkoming is dus *niet* dat YouTube niet meedeed — het is dat YouTube meedeelde en als antwoord op een Art. 17-conforme vraag niets noemde.
 - **DSA Art. 21(5)** — beslist de instantie **in het voordeel van de gebruiker**, dan draagt de platformaanbieder **alle kosten** en vergoedt hij de redelijke onkosten van de gebruiker. De twee ACE-uitspraken vielen in Karels voordeel → **YouTube is hem de ACE-kosten en redelijke onkosten verschuldigd, en heeft die niet betaald.** Dit is een concrete, meetbare verplichting, geen interpretatie.
 
 ⚠️ **Tweede correctie op een niet-gedekt claim (mijnerfout, 3 oktober 2026).** In de eerste versie van dit bestand stond dat een ACE-uitspraak "**bindend** is voor de platformaanbieder" onder verwijzing naar *"DSA Art. 21(5)"*. **Dat is onjuist.** Art. 21(2) stelt expliciet: *"The certified out-of-court dispute settlement body shall not have the power to impose a binding settlement of the dispute on the parties."* Art. 21(5) gaat over **kostenvergoeding**, niet over bindende kracht. Bevestigd tegen de officiële tekst (Regulation (EU) 2022/2065, Art. 21) en tegen de eigen guidance van de CNAM — *"The decisions of ODS bodies are not binding"* — die toezichthouder is in dit dossier.
 
 **Waarom deze correctie meer waard is dan hij lijkt.** Het oude actieplan (`TODO/Action_Plan_Synthesis.md` Actie 3.2) en de meeste oudere analyses in dit dossier hadden het al goed: *"de uitspraak is niet-bindend, maar de DSA verplicht platforms om te goeder trouw deel te nemen."* De correctie is dus geen verlies maar een **versterking**: het argument steunt nu op twee plichten die wél afdwingbaar zijn (te-goeder-trouw-deelname, kostenvergoeding) in plaats van op één die dat niet is.
+
+⚠️ **Derde correctie (3 oktober 2026): YouTube heeft de ODS-procedure níét genegeerd.** Uit de mailbox blijkt dat YouTube Legal Support tweemaal inhoudelijk antwoordde op de ODS-melding van Karel: **30 september 2025** en **27 november 2025**, beide met woordelijk dezelfde tekst. De eerdere formulering in dit bestand en in het BIPT-concept — *"YouTube heeft de ACE-procedure volledig genegeerd en zich bij tweede instantie laten vertegenwoordigen door een default"* — is **onjuist** en verwijderd.
+
+**Waarom de correctie het argument versterkt in plaats van verzwakt.** Niet reageren laat een procedure open. Wél reageren, de juiste vraag krijgen, en die beantwoorden met ongewijzigde boilerplate maakt de tekortkoming zichtbaar: er is een team, er is een review, en de uitkomst wordt niet benoemd. Dat is de omstandigheid die Art. 17 verbiedt. Zie §1b voor de volledige mailcorrespondentie.
 
 ⚠️ **Gevolg voor de publieke README.** `README.md` beschrijft de ACE-uitspraken als *"ordering YouTube to restore the channel"* / *"which Google now refuses to execute"*. Dat is feitelijk juist (YouTube handelde niet) maar suggereert afdwingbaarheid die Art. 21 niet geeft. Bij een volgende publicatiesynchronisatie moet dit worden gepreciseerd naar: niet-bindende uitspraken, maar een genegeerde te-goeder-trouwplicht plus een onbetaalde kostenvergoedingsplicht.
 

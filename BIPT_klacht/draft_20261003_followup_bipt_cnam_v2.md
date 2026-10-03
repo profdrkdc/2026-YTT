@@ -79,15 +79,28 @@ Ik vermeld dit niet als emotionele aanvulling. Het is relevant voor de afweging 
 3. **Een verduidelijking over de bevoegdheid.** YouTube is een Very Large Online Platform met hoofdvestiging in Ierland. Ik begrijp dat de Europese Commissie de lead-toezichthouder is, maar dat een lidstaat waar de hoofdvestiging is gevestigd bevoegd kan zijn handhaven wanneer de Commissie niet is opgetreden. Kunt u mij bevestigen of CNAM zich bevoegd acht?
 4. **Welke informatie u van mij nodig heeft** om de klacht te kunnen beoordelen. Ik heb begrepen dat de verdere beoordeling kan bestaan uit het opvragen van bijkomende inlichtingen bij mij of bij de platformaanbieder. Ik werk hier graag aan mee.
 
-### 5. Twee correcte punten over de ACE-uitspraken
+### 5. YouTube heeft wél meegedaan aan de ODS-procedure — en als antwoord niets genoemd
 
-Ik wil hierover precies zijn, omdat ik mijn eigen eerdere formulering heb gecorrigeerd:
+Dit hoofdstuk corrigeert een eerdere formulering van mijzelf. Ik had geschreven dat Google de ACE-procedure volledig had genegeerd en zich bij tweede instantie liet vertegenwoordigen door een default. **Dat was onjuist.** YouTube heeft tweemaal inhoudelijk gereageerd, via YouTube Legal Support:
 
-- De uitspraken van ACE zijn **niet bindend** voor de platformaanbieder. Artikel 21(2) van de DSA stelt uitdrukkelijk dat een gecertificeerde geschilleninstantie **geen bindende beslissing** kan opleggen. Ik had eerder anders verwoord.
-- Wat de DSA **wel** afdwingt, is dat beide partijen **te goeder trouw** deelnemen aan de procedure. Google heeft niet gereageerd en zich bij tweede instantie laten vertegenwoordigen door een **default**. Dat is geen te-goeder-trouw-deelname.
-- Artikel 21(5) bepaalt bovendien dat bij een beslissing **in het voordeel van de gebruiker** de platformaanbieder **alle kosten** van de geschilleninstantie draagt en de redelijke onkosten van de gebruiker vergoedt. ACE heeft in mijn beide zaken in mijn voordeel beslist. Die vergoeding heb ik niet ontvangen.
+| Datum | Wat YouTube antwoordde |
+|---|---|
+| **30 september 2025** | Reactie op mijn ODS-melding: *"Our team has carefully reviewed the channel and found it violates our Spam, deceptive practices, and scams policies… We also don't allow content where the main purpose is to trick others into leaving YouTube for another site."* |
+| **27 november 2025** | Reactie op mijn vraag hieronder — **woordelijk hetzelfde antwoord**, zonder één extra detail |
 
-Ik vermeld dit niet om een uitvoerbaar vonnis te claimen — dat kan ik niet. Ik vermeld het omdat het aantoont dat er ook na de uitspraak nog **concrete, afdwingbare verplichtingen** openstonden die niet zijn nagekomen.
+**Op 1 oktober 2025 heb ik YouTube precies de vraag gesteld die de DSA vereist**, namelijk welke video of welk gedrag de overtreding zou vormen — met verwijzing naar Art. 17. YouTube antwoordde op 27 november met **exact dezelfde tekst als twee maanden eerder**, nog steeds zonder één video, zonder één feit, zonder één gedrag te noemen.
+
+**Waarom dit sterker is dan "geen antwoord".** Een platform dat niet reageert laat een procedure open. Een platform dat **deelt aan de procedure, de juiste vraag krijgt, en die dan beantwoordt met ongewijzigde boilerplate** maakt de tekortkoming zelf zichtbaar: er is wel een team, er is wel een review, en de uitkomst is bewust of vergeten niet benoemd. Dat is precies de omstandigheid die Art. 17 verbiedt.
+
+**Eén bijzonderheid die ik apart wil markeren.** In beide reacties noemt YouTube een tweede grondslag die **nergens in de oorspronkelijke schorsingsmelding van 15 augustus 2025 voorkomt**: *"content where the main purpose is to trick others into leaving YouTube for another site"*. Die grondslag is pas in september 2025 toegevoegd en is **nooit aan een concrete video gekoppeld**. Zij is dus wel genoemd, maar niet onderbouwd — precies omgekeerd van wat Art. 17 vraagt.
+
+**Over de bindendheid van de ACE-uitspraken, enigszins gecorrigeerd.** Ik schreef eerder dat de uitspraken "bindend" zouden zijn onder verwijzing naar Art. 21(5). Dat is **onjuist**: Art. 21(2) stelt uitdrukkelijk dat een gecertificeerde geschilleninstantie **geen bindende beslissing** kan opleggen, en Art. 21(5) gaat over kostenvergoeding. Twee ACE-zaken zijn in mijn voordeel beslist (16 december 2025). Wat rest zijn twee afdwingbare verplichtingen die niet zijn nagekomen: de **te-goeder-trouwplicht** van Art. 21(2), en de **kostenvergoeding** van Art. 21(5). Ik claim dus geen uitvoerbaar vonnis — daarvoor is de grondslag er niet.
+
+### 6. Een toezichthouder kan Google aanvallen waar niemand anders dat kon
+
+Uit de stukken blijkt dat de enige momenten waarop YouTube iets concreets zei, momenten waren waarop **Karel zelf had gevraagd**. Geen enkel kanaal — geen appealformulier, geen beroep, geen ticket, geen brief — heeft YouTube één vraag doen beantwoorden.
+
+De procedure bij CNAM biedt precies dat: *"sending the ISP a copy of the complaint with accompanying questions to respond to"*. Ik verzoek dan ook expliciet om die stap te zetten, en om de vragen aan Google te richten op het ene punt dat in twee jaar nooit is beantwoord: **welke video en welk gedrag.**
 
 ---
 

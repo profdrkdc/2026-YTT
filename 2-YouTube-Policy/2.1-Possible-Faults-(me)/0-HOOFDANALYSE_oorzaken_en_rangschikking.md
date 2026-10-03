@@ -78,7 +78,28 @@ Waar de oudere dossierdocumenten de "kafkaëske lus" beschrijven, maar zonder sp
 - een antwoord op de vraag hoeveel beroepsrondes er nu werkelijk zijn geweest (de tijdlijn noemt er drie, plus escalaties);
 - iets dat je aan een toezichthouder kunt overhandigen zonder interpretatie: zeven nummers, zeven keer hetzelfde antwoord, nul uitkomsten.
 
-**→ Nog te verifiëren:** de tickets bevatten de tekst die Karel zelf in het formulier intypte. Dat is de enige manier om vast te leggen wat er per ronde precies is ingediend — de bron voor de "herhaalde schorsing"-claim.
+### Google's eigen belofte: "2 business days" — en die is zeven keer niet gehaald
+
+De volledige tekst van ticket `[5-4366000038890]` (**16 augustus 2025, 10:11**) bevat een zin die in alle eerdere versies van dit dossier ontbrak:
+
+> *"Google will review your appeal as soon as possible. **Most requests take 2 business days to review**, but some might take longer."*
+
+**Dit is een gedocumenteerde servicebevoeldsheid van de platformaanbieder zelf, niet een wettelijke termijn.** En dat maakt het veel sterker dan de observatie "de beroepen werden snel afgewezen":
+
+| | |
+|---|---|
+| Google legt zich zelf vast op | **2 werkdagen** voor de beoordeling van een beroep |
+| Waarvan de eerste ticket | 16/08/2025 10:11 — dus de belofte liep tot **20/08/2025** |
+| Uitkomst | **geen inhoudelijke beantwoording, in geen van de zeven gevallen** |
+| Uiteindelijk | pas twee jaar later de ACE-uitspraken, die YouTube niet uitvoerde |
+
+**Waarom dit het beste Art. 20-punt in het dossier is.** De DSA eist een *effectieve* interne klachtafhandeling, en de uitkomst van een onderzoek mag alleen door **personeel dat niet bij de oorspronkelijke beslissing betrokken was** worden genomen (Art. 20(2)). Hier is geen sprake van een te traag of te streng onderzoek — er is **geen onderzoek waarneembare vorm**: zeven tickets, zeven keer uitsluitend de verwijzing naar de eigen belofte, en geen enkele inhoudelijke reactie. Een platform dat zijn eigen termijn van twee werkdagen zeven keer zonder gevolg laat verlopen, demonstreert niet een te strenge handhaving maar de afwezigheid van een handhaving.
+
+**Nog twee bijzonderheden in dezelfde mail, die het verhaal completeren:**
+- *"You may be able to download your data from some Google services"* — dit is de reden dat Karel na de sanctie een take-out kon aanvragen, en dus de reden dat de kijkgeschiedenis van 16 augustus bestaat. Zonder deze mail was het belangrijkste objectieve bewijsstuk in het dossier verloren gegaan.
+- *"You received this message because someone provided this as the contact email address for an appeal"* — bevestigt wat Karel heeft aangegeven: dit zijn de automatische bevestigingen op het **invullen van het online-beroepsformulier**, niet aparte verzoeken. Karel bevestigde dit 3/10/2026.
+
+**→ Nog te verifiëren:** de tickets bevatten de tekst die Karel zelf in het formulier intypte — die staat niet in deze bevestigingsmails, want de inzending liep via het webformulier. Karel heeft die tekst wel: als de vier `legal@`-brieven van 3, 4, 5 en 8 september 2025 in [`1-timeline/`](../../1-timeline/).
 
 **Nevenbevinding die het procedureargument versterkt.** De mail *"Review the update on your appeal status"* (16/8) omschrijft zichzelf als *"this **mandatory email service announcement** to update you about important changes to your YouTube channel or account"*. YouTube communiceert dus over beroepsuitkomsten via geautomatiseerde massamail — een tastbaar detail bij de Art. 20-vraag.
 

@@ -48,7 +48,33 @@ Deze zijn niet hypotheses maar vastgesteld uit de eigen TakeOut en de correspond
 
 ---
 
-## 2. De oorzaken, gerangschikt
+## 1b. Nieuw feit (3 oktober 2026): de klacht ging verder dan het kanaal
+
+Bij het doorzoeken van de mailbox voor de security-test stonden **zeven verzoeken om herstel van toegang tot het Google Account** — niet alleen tot het YouTube-kanaal. Alle zeven in het label `YouTube/Termination`, alle zeven met exact dezelfde geautomatiseerde tekst:
+
+> *"Thank you for contacting us about restoring access to your Google Account. Google will review your appeal as soon as possible."*
+
+| Ticket | Datum |
+|---|---|
+| `[5-4366000038890]` | 16 augustus 2025 — twee dagen na de sanctie |
+| `[8-4263000039332]` | 3 september 2025 |
+| `[1-1919000040046]` | 5 september 2025 |
+| `[2-7272000039427]` | 8 september 2025 |
+| `[8-6259000039717]` | 8 september 2025 |
+| `[9-4255000039432]` | 9 september 2025 |
+| `[7-1518000038835]` | 24 september 2025 |
+
+**Dit staat nergens in het dossier.** Het hele dossier — samenvatting, tijdlijn, openbare README, brief aan Alphabet — behandelt de zaak uitsluitend als een *kanaal*-schorsing.
+
+**Waarom dit relevant is.** Het belang van de zaak is hiermee potentieel veel groter dan de analyse aannam. Als de toegang tot het **Google Account** zelf in het geding was, dan ging het niet om drie screencasts maar om alle e-mail, Drive, Cloud-projecten, de backupservice-account en het werk rond smartBE. Een verlies daarvan is een andere orde van grootheid dan een kanaal.
+
+**Wat hier nog niet uit volgt.** Uit de zeven automatische bevestigingen valt **niet** af te leiden of het account ook werkelijk was geblokkeerd. Google gebruikt deze tickettekst voor elk verzoek in die categorie; de zeven meldingen kunnen dus zeven pogingen zijn om het kanaal via de accountroute te herstellen, en even goed zeven reacties op een echte blokkade. Het account is nu wel bereikbaar en de Drive-backupservice werkt.
+
+**→ Openstaande vraag aan Karel:** was het Google Account in augustus–september 2025 daadwerkelijk ontoegankelijk, of ging het om verzoeken om het kanaal via die route te herstellen? Het antwoord bepaalt of dit dossier een kanaalgeschil is of een geschil over de toegang tot een heel account — en daarmee of de DSA-klacht bij BIPT/CNAM alleen over YouTube moet gaan of ook over de Google-platformen.
+
+**Nevenbevinding die het procedureargument versterkt.** De mail *"Review the update on your appeal status"* (16/8) omschrijft zichzelf als *"this **mandatory email service announcement** to update you about important changes to your YouTube channel or account"*. YouTube communiceert dus over beroepsuitkomsten via geautomatiseerde massamail — een tastbaar detail bij de DSA Art. 20-vraag of er een mens van onafhankelijke beoordelaar had bekeken.
+
+---
 
 Elke hypothese krijgt vier velden: **wat het verklaart**, **wat het niet verklaart**, of het **toetsbaar** is, en de **status**.
 
@@ -149,18 +175,22 @@ Elke hypothese krijgt vier velden: **wat het verklaart**, **wat het niet verklaa
 
 **Wat 7b verklaart.** De volgorde: melding → "no problem at all" → ban. Dit is een bekend patroon bij classifiers die op rapportagedrag trainen in plaats van op gehalte.
 
-**Toetsbaar — en dit is het belangrijkste openstaande feit in de hele zaak:**
+**Toetsbaar — en de test is uitgevoerd op 3 oktober 2026. UITSLAG: de hypothese is verzwakt.**
 
-> **Controleer de security-activity van het Google-account rond 10–16 augustus 2025.**
-> `myaccount.google.com/security` → *Beveiligingsactiviteit*. Vier concrete indicatoren:
-> 1. **Inlogpoging van een onbekend apparaat of buitenland** rond 12–15 augustus;
-> 2. **Een e-mail "Uw account is mogelijk gecompromitteerd"** of een Google-verificatiemelding in de inbox — nog aanwezig in de archiefcategorie, ook al is de melding verdwenen;
-> 3. **Een 2FA-uitdaging of -goedkeuring** in augustus 2025;
-> 4. Of er na 15 augustus nog activiteit was die wijst op een partij die het account nog vasthield.
+Via de beveiligingsmeldingen zelf is de test niet meer mogelijk: Google toont daar uitsluitend *"Security activity and alerts from the last 28 days"*, en het venster augustus 2025 is daarin definitief verdwenen. De gmailbox bleek wél de bewaarde bron, en die is onderzocht:
 
-**Kanttekening bij de haalbaarheid.** Google bewaart security-meldingen en het recente security-overzicht slechts beperkt; na twee jaar kan het log leeg of getrimd zijn. **Toch het proberen waard: één harde treffer (onbekend apparaat of eencompromis-melding) verslaat alle zeven overige hypothesese en verandert de zaak van een procedure-argument naar een security-incident.** Zonder treffer blijft O7 even onbewezen als de rest.
+| Indicator | Uitkomst |
+|---|---|
+| Onbekend apparaat of buitenlandse login, 10–16 augustus 2025 | **Geen.** Het enige item in "Recent security activity" is *"New sign-in on Linux — 23 sep 2026"*, zijn eigen sessie |
+| E-mail "uw account is mogelijk gecompromitteerd" | **Geen**, in de hele box |
+| 2FA-uitdaging of -goedkeuring | **Geen** |
+| Security-alerts van Google in augustus 2025 | **Geen.** De enige Google-beveiligingsmails in die periode zijn zelf-geïnitieerd: Takeout-aanvraag 16/8 en archiefaanvraag 16/8 — elk met de standaardzin *"If you didn't make this request, someone may be trying to access your Google account"*. De meldingen bestaan en werken dus; ze staan er alleen niet. |
 
-**Status:** **als meest waarschijnlijke inschatting van Karel plausibel, maar van alle hypothesese het minst onderbouwd.** Dat is geen tegenspraak: het is de aard van de hypothese. Zij voorspelt een gebeurtenis zonder sporen in het dossier, terwijl O3–O6 elk een spiegel in het materiaal hebben. Voordat O7 het frame van de zaak gaat bepalen, moet het security-log worden nagekeken — anders blijft het de aanname waarover het meeste wordt gespeculeerd en het minste bekend is.
+**Waarom dit 7a flink verzwakt.** Er is een sterkere reden dan het ontbreken van een mail: **2-Step Verification stond aan sinds 20 april 2025**, ruim drie maanden vóór de sanctie. Een volledige overname van het account vereiste dus niet alleen het wachtwoord maar ook de goedkeuring van een 2FA-uitdaging op Karels eigen toestel. Zo'n goedkeuring hoort in het account te verschijnen, en ontbreekt. Een stille overname is daarmee aanzienlijk minder waarschijnlijk.
+
+**Kanttekening die niet mag worden overslaan.** De afwezigheid van een alert bewijst nog steeds niets: Google alarmeert niet bij elke gebeurtenis, en een sessie die via een bestaand geldig cookie werd overgenomen kan zonder e-mail verlopen. Wat het resultaat wél doet, is de hypothese verplaatsen van *een plausibele verklaring* naar *een hypothese zonder enige positieve onderbouwing*. Zij blijft onbewezen — maar zij kan niet langer het frame van de zaak zijn.
+
+**Status: van "meest waarschijnlijk volgens de intuïtie van Karel" naar "niet onderbouwd, en door de eigen beveiligingsinstellingen onwaarschijnlijk."** De rangschikking in §2 is daarmee op één punt achterhaald: O7 was de nummer-één-kandidaat en is het niet meer.
 
 ---
 

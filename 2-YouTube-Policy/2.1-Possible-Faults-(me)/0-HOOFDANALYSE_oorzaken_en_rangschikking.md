@@ -48,9 +48,9 @@ Deze zijn niet hypotheses maar vastgesteld uit de eigen TakeOut en de correspond
 
 ---
 
-## 1b. Nieuw feit (3 oktober 2026): de klacht ging verder dan het kanaal
+## 1b. Nieuw feit (3 oktober 2026): zeven gedocumenteerde beroepstickets
 
-Bij het doorzoeken van de mailbox voor de security-test stonden **zeven verzoeken om herstel van toegang tot het Google Account** — niet alleen tot het YouTube-kanaal. Alle zeven in het label `YouTube/Termination`, alle zeven met exact dezelfde geautomatiseerde tekst:
+Bij het doorzoeken van de mailbox voor de security-test bleken **zeven tickets** te bestaan, alle in het label `YouTube/Termination`, alle met exact dezelfde geautomatiseerde tekst:
 
 > *"Thank you for contacting us about restoring access to your Google Account. Google will review your appeal as soon as possible."*
 
@@ -64,15 +64,23 @@ Bij het doorzoeken van de mailbox voor de security-test stonden **zeven verzoeke
 | `[9-4255000039432]` | 9 september 2025 |
 | `[7-1518000038835]` | 24 september 2025 |
 
-**Dit staat nergens in het dossier.** Het hele dossier — samenvatting, tijdlijn, openbare README, brief aan Alphabet — behandelt de zaak uitsluitend als een *kanaal*-schorsing.
+### ⚠️ Lees de formulering niet als een claim
 
-**Waarom dit relevant is.** Het belang van de zaak is hiermee potentieel veel groter dan de analyse aannam. Als de toegang tot het **Google Account** zelf in het geding was, dan ging het niet om drie screencasts maar om alle e-mail, Drive, Cloud-projecten, de backupservice-account en het werk rond smartBE. Een verlies daarvan is een andere orde van grootheid dan een kanaal.
+**Deze zeven tickets gaan over het YouTube-kanaal, niet over toegang tot het Google Account als geheel.** YouTube is eigendom van Google, en Googles formulier- en ticketsysteem gebruikt voor elk verzoek in deze categorie de standaardformule *"restoring access to your Google Account"*. Die zin is **de template van het systeem, niet de omschrijving van wat Karel heeft aangevraagd.** Het zijn vermoedelijk de automatische bevestigingen die volgden op het invullen van het online-beroepsformulier.
 
-**Wat hier nog niet uit volgt.** Uit de zeven automatische bevestigingen valt **niet** af te leiden of het account ook werkelijk was geblokkeerd. Google gebruikt deze tickettekst voor elk verzoek in die categorie; de zeven meldingen kunnen dus zeven pogingen zijn om het kanaal via de accountroute te herstellen, en even goed zeven reacties op een echte blokkade. Het account is nu wel bereikbaar en de Drive-backupservice werkt.
+**Waarschuwing voor de toekomst, expliciet:** MACCHA had uit die boilerplate eerst afgeleid dat het om toegang tot het hele Google Account ging — e-mail, Drive, Cloud, smartBE — en dat bijgevolg in een eerste versie van dit document als "nieuw, ongedocumenteerd feit" opgenomen. **Die gevolgtrekking was fout** en is verwijderd. De regel is: *de tekst van een geautomatiseerd systeem beschrijft het systeem, niet de zaak.* Hetzelfde mechanisme verklaart waarschijnlijk mede waarom YouTube in de schorsingsmail een "beleid" noemde zonder te zeggen welke — een gecategoriseerde automatische tekst is geen inhoudelijke grondslag.
 
-**→ Openstaande vraag aan Karel:** was het Google Account in augustus–september 2025 daadwerkelijk ontoegankelijk, of ging het om verzoeken om het kanaal via die route te herstellen? Het antwoord bepaalt of dit dossier een kanaalgeschil is of een geschil over de toegang tot een heel account — en daarmee of de DSA-klacht bij BIPT/CNAM alleen over YouTube moet gaan of ook over de Google-platformen.
+### Wat deze tickets wél zijn: het tastbare bewijs van de beroepslus
 
-**Nevenbevinding die het procedureargument versterkt.** De mail *"Review the update on your appeal status"* (16/8) omschrijft zichzelf als *"this **mandatory email service announcement** to update you about important changes to your YouTube channel or account"*. YouTube communiceert dus over beroepsuitkomsten via geautomatiseerde massamail — een tastbaar detail bij de DSA Art. 20-vraag of er een mens van onafhankelijke beoordelaar had bekeken.
+Waar de oudere dossierdocumenten de "kafkaëske lus" beschrijven, maar zonder sporen, zijn dit **zeven concrete ticket-ID's over zes weken, elk met exact dezelfde niet-identificerende automatische bevestiging, en geen ervan met een inhoudelijke uitkomst.** Dat is:
+
+- een controleerbaar artefact voor de DSA Art. 20-vraag of er een mens van onafhankelijke beoordelaar bij de beslissingen betrokken was;
+- een antwoord op de vraag hoeveel beroepsrondes er nu werkelijk zijn geweest (de tijdlijn noemt er drie, plus escalaties);
+- iets dat je aan een toezichthouder kunt overhandigen zonder interpretatie: zeven nummers, zeven keer hetzelfde antwoord, nul uitkomsten.
+
+**→ Nog te verifiëren:** de tickets bevatten de tekst die Karel zelf in het formulier intypte. Dat is de enige manier om vast te leggen wat er per ronde precies is ingediend — de bron voor de "herhaalde schorsing"-claim.
+
+**Nevenbevinding die het procedureargument versterkt.** De mail *"Review the update on your appeal status"* (16/8) omschrijft zichzelf als *"this **mandatory email service announcement** to update you about important changes to your YouTube channel or account"*. YouTube communiceert dus over beroepsuitkomsten via geautomatiseerde massamail — een tastbaar detail bij de Art. 20-vraag.
 
 ---
 

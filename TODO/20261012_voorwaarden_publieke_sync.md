@@ -9,8 +9,8 @@
 
 | Waar | Wat | Actie in de publieke tak |
 |---|---|---|
-| `2-YouTube-Policy/2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md` §O6 | "Karel verbleeft in een forensisch psychiatrisch centrum" + gedeeld institutioneel IP | Geanonimiseerd ("collectief institutioneel netwerk van de instelling") of §O6 weglaten |
-| Alle nieuw toegevoegde bestanden sinds de vorige publicatie | Verwijzingen naar FPC, internering, verblijfsmaatregel, begeleiding | `git grep -ilE "forensisch|FPC|interner|verblijfsmaatregel|Melissa|Elias"` draaien vóór push |
+| `2-YouTube-Policy/2.1-Possible-Faults-(me)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md` §O6 | Eerste versie van §O6 noemde de **aard van Karels wooninstelling** | ✅ **Verwijderd 12/10/2026** — §O6 spreekt nu enkel over "een instelling met een collectieve netwerkinfrastructuur"; de woonsituatie heeft `SITUATIE_OVERZICHT` als eigenaar en hoort niet in dit publieke dossier |
+| Alle bestanden in de niet-gepushte commits | Verwijzingen naar FPC, internering, verblijfsmaatregel, begeleiding | ✅ **Gecontroleerd 12/10/2026** — `git grep -inE "psychiatrisch|forensisch psychi|\bFPC\b|Hurstweg|Zuidpark|interner"` levert op de publieke tak niets op (rest: valse treffers "forensische analyse" en de lettercombinatie `fpc` in de extensie-ID `holadmfpcc…`) |
 
 **Waarom dit telt:** de publieke README nodigt uit om het dossier te lezen. Wie de brief aan Alphabet-board of BIPT stuurt met een repo-link, nodigt de tegenpartij uit om *alles* te lezen — inclusief de eigen zwakheden.
 

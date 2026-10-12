@@ -196,7 +196,7 @@ Wat hier een hypothese was, is daarmee een **grondslag die de tegenpartij zelf h
 
 ### O6 — Gedeeld institutioneel IP-netwerk *(in eerdere analyse onderbelicht; in de situatie van Karel sterk)*
 
-**Wat het is.** Karel verbleeft in een forensisch psychiatrisch centrum. Internetverkeer loopt via de collectieve netwerkinfrastructuur: één publiek IP-adres of -bereik, gedeeld door honderden bewoners en personeel. IP-reputatie is een **standaardinput** in spamdetectie.
+**Wat het is.** Karel woont in een instelling met een **collectieve netwerkinfrastructuur** (de woonsituatie zelf is eigendom van `INFO/karel/SITUATIE_OVERZICHT.md` en hoort niet in dit publieke dossier). Internetverkeer loopt via die infrastructuur: één publiek IP-adres of -bereik, gedeeld door honderden gebruikers op dezelfde locatie. IP-reputatie is een **standaardinput** in spamdetectie.
 
 **Wat het verklaart.** De *selectiviteit-vraag uit O1* die geen enkele inhoudshypothese kan beantwoorden: waarom juist dit kanaal van de duizenden. Dit is de sterkste verklaring voor willekeurige selectie die in het dossier voorkomt, en hij volgt direct uit Karels situatie.
 

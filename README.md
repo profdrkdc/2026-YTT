@@ -31,7 +31,7 @@ Google has systematically failed to comply with the European Union's **Digital S
 
 * **Article 17 (Statement of Reasons):** Google has refused to provide a clear, specific, and individual reason detailing *which* video or *what* behavior triggered the ban, preventing any meaningful defense.
 * **Article 20 (Internal Complaint Handling):** Appeals are rejected within minutes by automated systems without human review.
-* **Article 21 (Out-of-Court Dispute Settlement):** The case was submitted to the certified Out-of-Court Dispute Settlement body *Appeals Centre Europe* (ACE). Google ignored the proceedings entirely, resulting in two default decisions in my favor (Cases `#2025-012481-YT` and `#2025-012487-YT`) which Google now refuses to execute.
+* **Article 21 (Out-of-Court Dispute Settlement):** The case was submitted to the certified Out-of-Court Dispute Settlement body *Appeals Centre Europe* (ACE). ACE examined both cases for two months and had to close them on 16 December 2025 because the platform **did not provide enough information** to reach a conclusion on the correct application of its own policy — resulting in two standard decisions in my favour (Cases `#2025-012481-YT` and `#2025-012487-YT`). Those decisions are **not binding** under Art. 21(2) DSA. The channel remains terminated.
 
 ---
 
@@ -41,7 +41,7 @@ All files are located in this repository and can be browsed directly:
 
 * 📄 **[Full Timeline of the Case](1-timeline/COMPLETE%20TIMELINE%20OF%20MY%20CASE.md):** Chronological log of emails, form submissions, and notifications.
 * 📄 **[Dossier Summary (PDF)](1-timeline/2026.01-Comm_Google.Alphabet/Dossier_Samenvatting.pdf):** Structured summary of the case and the legal arguments.
-* 📄 **[ACE Appeal 1 (PDF)](1-timeline/2026.01-Comm_Google.Alphabet/Appeal_ed0c90c2-3255-45c9-879e-9618e52fc7fc.pdf) & [ACE Appeal 2 (PDF)](1-timeline/2026.01-Comm_Google.Alphabet/Appeal_fdcce33d-a92b-4fcb-8b96-a4144e7e7b4c.pdf):** Certified ODS decisions ordering YouTube to restore the channel.
+* 📄 **[ACE Appeal 1 (PDF)](1-timeline/2026.01-Comm_Google.Alphabet/Appeal_ed0c90c2-3255-45c9-879e-9618e52fc7fc.pdf) & [ACE Appeal 2 (PDF)](1-timeline/2026.01-Comm_Google.Alphabet/Appeal_fdcce33d-a92b-4fcb-8b96-a4144e7e7b4c.pdf):** The two ACE decisions of 16 December 2025 — standard decisions in my favour, issued because the platform provided insufficient information. They are not binding on YouTube.
 * 📄 **[Letter of Concern](1-timeline/2026.01-Comm_Google.Alphabet/2026.01.08-Letter_of_Concern_Updated_.md):** Formal letter detailing the whistleblower and DSA issues.
 
 ---

@@ -1,12 +1,14 @@
 # Draft: opvolgingsmail BIPT/CNAM — DSA-klacht YouTube (concept 3 oktober 2026)
 
 > **Vervangt** `draft_20260913_followup_bipt_cnam.md` (13/9). Die versie vroeg alleen om een statusupdate en bevatte nog de oude, zwakkere argumentatie.
-> **Niet verzonden.** Concept — Karel leest voor, beslist over verzending. Aanmaakvia `~/bin/maccha/compose-mail` pas na akkoord.
+> **Niet verzonden.** Concept — Karel leest voor, besluit over verzending. Aanmaakvia `~/bin/maccha/compose-mail` pas na akkoord.
 > **Verzendvoorstel:** 15 oktober 2026 (3 maanden na doorverwijzing naar CNAM).
+>
+> ✅ **Correctie verwerkt (12/10/2026).** §5 herschreven: de twee YouTube-antwoorden (30/9 en 27/11/2025) worden nu correct voorgesteld als antwoorden op Karels eigen mails (headers `To: karel…`), niet als deelname aan de ODS-procedure; de eerste viel vóór de indiening van 21/10/2025. Toegevoegd: het ACE-eigen citaat ("onvoldoende informatie verstrekt") en de vermelding dat de beslissingen **standaardbeslissingen** zijn, niet bindend. Canoniek: `0-HOOFDANALYSE_oorzaken_en_rangschikking.md` §3 (wijzigingslog 12/10). Zelfde precisering zit in de brief aan `directors@abc.xyz` (draft-ID 1450).
 
 - **Aan:** klachtdsa@bipt.be
 - **Van:** karel.test.special@gmail.com — zelfde account als de oorspronkelijke klacht
-- **Referenties:** BIPT 2026-00003-Youtube · Agora CMT-00003689-K1X · ACE #2025-012481-YT en #2025-012487-YT · **DSA Art. 17, 20, 21(2), 21(5)** · YouTube-helppagina `support.google.com/youtube/answer/2802168`
+- **Referenties:** BIPT 2026-00003-Youtube · Agora CMT-00003689-K1X · ACE #2025-012481-YT en #2025-012487-YT · **DSA Art. 17, 20 en 21(2)** (niet 21(5) — geen kosten aangerekend, zie §5) · YouTube-helppagina `support.google.com/youtube/answer/2802168`
 - **Bijlagen:** overwegen of in te dienen — zie onderaan
 
 ---
@@ -21,7 +23,7 @@ Geachte heer/mevrouw,
 
 Op 13 juli 2026 liet u mij weten dat mijn klacht over de schorsing van mijn YouTube-kanaal (@KarelTest) werd overgemaakt aan de Ierse coördinator voor digitale diensten (CNAM), en dat de behandeling enkele maanden kan duren. Omdat er sindsdien geen verdere communicatie heeft plaatsgevonden, wend ik mij tot u met een korte statusvraag én met drie concrete elementen waarvan ik denk dat ze voor een zorgvuldige beoordeling van belang zijn.
 
-**Toestand sinds 13 juli 2026:** het kanaal is nog steeds geschorst. Er is geen herstel. Google heeft de twee uitspraken van de buitengerechtelijke geschilleninstantie ACE niet uitgevoerd. Op mijn melding van die procedure heeft YouTube tweemaal geantwoord, maar zonder één concrete video, feit of gedrag te noemen — zie §5.
+**Toestand sinds 13 juli 2026:** het kanaal is nog steeds geschorst. Er is geen herstel. De twee standaardbeslissingen van ACE van 16 december 2025 in mijn voordeel zijn niet uitgevoerd. Op mijn eigen melding van die procedure antwoordde YouTube tweemaal, in mijn eigen mailthread, maar zonder één concrete video, feit of gedrag te noemen — zie §5.
 
 ---
 
@@ -77,22 +79,30 @@ Dit is relevant voor de afweging of de sanctie **proportioneel en beperkt** is i
 3. **Een verduidelijking over de bevoegdheid.** YouTube is een Very Large Online Platform met hoofdvestiging in Ierland. Ik begrijp dat de Europese Commissie de lead-toezichthouder is, maar dat een lidstaat waar de hoofdvestiging is gevestigd bevoegd kan zijn handhaven wanneer de Commissie niet is opgetreden. Kunt u mij bevestigen of CNAM zich bevoegd acht?
 4. **Welke informatie u van mij nodig heeft** om de klacht te kunnen beoordelen. Ik heb begrepen dat de verdere beoordeling kan bestaan uit het opvragen van bijkomende inlichtingen bij mij of bij de platformaanbieder. Ik werk hier graag aan mee.
 
-### 5. YouTube en de ODS-procedure — antwoorden op mijn vragen waren onvoldoende
+### 5. YouTube en de ODS-procedure — wat er precies gebeurde
 
-Ik heb YouTube 2 keren op de hoogte gebracht dat ik een ODS-procedure zou starten of gestart had, om hen de kans te geven te reageren. Helaas was de respons van YouTube op mijn klachten onvoldoende. YouTube heeft tweemaal inhoudelijk gereageerd via YouTube Legal Support:
+Ik heb YouTube tweemaal op de hoogte gebracht van een ODS-procedure, om hen de kans te geven te reageren: een "Formal Notice of Intent to Initiate Out-of-Court Dispute Settlement" op 24 september 2025, en mijn Art. 17-vraag op 1 oktober 2025. YouTube Legal Support antwoordde tweemaal, telkens in mijn eigen mailthread:
 
 | Datum | Wat YouTube antwoordde |
 |---|---|
-| **30 september 2025** | Reactie op mijn ODS-melding: *"Our team has carefully reviewed the channel and found it violates our Spam, deceptive practices, and scams policies… We also don't allow content where the main purpose is to trick others into leaving YouTube for another site."* |
+| **30 september 2025** | Reactie op mijn notice of intent: *"Our team has carefully reviewed the channel and found it violates our Spam, deceptive practices, and scams policies… We also don't allow content where the main purpose is to trick others into leaving YouTube for another site."* |
 | **27 november 2025** | Reactie op mijn vraag hieronder — **woordelijk hetzelfde antwoord**, zonder één extra detail |
+
+**Ik preciseer dit bewust, omdat ik eerder te sterk formuleerde.** Die twee antwoorden gingen naar **mij**, niet naar de geschilleninstantie, en de eerste viel bovendien vóór de indiening van mijn dossier bij ACE op 21 oktober 2025. Zij tellen dus **niet** als deelname aan de ODS-procedure, en ik zal ze ook niet zo voorstellen.
+
+**Wat de geschilleninstantie zélf vaststelde.** ACE sloot beide dossiers (#2025-012481-YT en #2025-012487-YT) op 16 december 2025 met deze formulering:
+
+> *"Helaas heeft het platform onvoldoende informatie verstrekt om het Appeals Centre in staat te stellen om tot een conclusie te komen over de juiste of onjuiste toepassing van het platformbeleid… Daarom geven wij hierbij een standaardbeslissing uit in uw voordeel."*
+
+De beslissing vermeldt twee gebeurtenissen: "dispute received" (21 oktober 2025) en "decision made" (16 december 2025). Voor mij is dit het zwaarste stuk van mijn dossier: een gecertificeerde geschilleninstantie heeft deze sanctie twee maanden onderzocht en de zaak moeten **sluiten omdat de platformaanbieder onvoldoende informatie leverde** om überhaupt tot een conclusie te komen over de juiste toepassing van zijn eigen beleid. Dat is dezelfde tekortkoming als in §1 — geen video, geen feit, geen gedrag — maar dan schriftelijk vastgesteld door een onafhankelijk orgaan in plaats van door mij.
 
 **Op 1 oktober 2025 heb ik YouTube precies de vraag gesteld die de DSA vereist**, namelijk welke video of welk gedrag de overtreding zou vormen — met verwijzing naar Art. 17. YouTube antwoordde op 27 november met **exact dezelfde tekst als twee maanden eerder**, nog steeds zonder één video, zonder één feit, zonder één gedrag te noemen.
 
-**Waarom dit sterker is dan "geen antwoord".** Een platform dat niet reageert laat een procedure open. Een platform dat **deelt aan de procedure, de juiste vraag krijgt, en die dan beantwoordt met ongewijzigde boilerplate** maakt de tekortkoming zelf zichtbaar: er is wel een team, er is wel een review, en de uitkomst is bewust of vergeten niet benoemd. Dat is precies de omstandigheid die Art. 17 verbiedt.
+**Waarom dit sterker is dan "geen antwoord".** Een platform dat niet reageert laat een procedure open. Een platform dat **in zijn eigen mailthread antwoordt, de juiste Art. 17-vraag krijgt, en die beantwoordt met ongewijzigde boilerplate** — terwijl de geschilleninstantie intussen vaststelt dat de informatie onvoldoende was — maakt de tekortkoming zichtbaar: er is wel een team, er is wel een review, en de uitkomst wordt niet benoemd. Dat is precies de omstandigheid die Art. 17 verbiedt.
 
 **Eén bijzonderheid die ik apart wil markeren.** In beide reacties noemt YouTube een tweede grondslag die **nergens in de oorspronkelijke schorsingsmelding van 15 augustus 2025 voorkomt**: *"content where the main purpose is to trick others into leaving YouTube for another site"*. Die grondslag is pas in september 2025 toegevoegd en is **nooit aan een concrete video gekoppeld**. Zij is dus wel genoemd, maar niet onderbouwd — precies omgekeerd van wat Art. 17 vraagt. Deze tweede grondslag is ook niet relevant in dit dossier (mijn video´s probeerden niet door te sturen naar een andere platform).
 
-**Over de bindendheid van de ACE-uitspraken, enigszins gecorrigeerd.** Ik schreef eerder dat de uitspraken "bindend" zouden zijn onder verwijzing naar Art. 21(5). Dat is **onjuist**: Art. 21(2) stelt uitdrukkelijk dat een gecertificeerde geschilleninstantie **geen bindende beslissing** kan opleggen, en Art. 21(5) gaat over kostenvergoeding. Twee ACE-zaken zijn in mijn voordeel beslist (16 december 2025). Wat rest zijn twee afdwingbare verplichtingen die niet zijn nagekomen: de **te-goeder-trouwplicht** van Art. 21(2), en de **kostenvergoeding** van Art. 21(5). Ik claim dus geen uitvoerbaar vonnis — daarvoor is de grondslag er niet.
+**Over de bindendheid van de ACE-beslissingen.** Ik schreef eerder dat de uitspraken "bindend" zouden zijn onder verwijzing naar Art. 21(5). Dat is **onjuist**: Art. 21(2) stelt uitdrukkelijk dat een gecertificeerde geschilleninstantie **geen bindende beslissing** kan opleggen. Het zijn standaardbeslissingen in mijn voordeel, genomen omdat de informatie onvoldoende was. Wat overblijft is de verplichting om **te goeder trouw mee te werken** aan een dergelijke procedure (Art. 21(2)). **Kostenvergoeding onder Art. 21(5) claim ik uitdrukkelijk niet:** ik ben door ACE nooit kosten aangerekend, dus er valt niets te vergoeden, en ik wil geen oneigenlijk argument inbrengen.
 
 ### 6. De eigen regels van YouTube, en wat er daarmee gebeurde
 

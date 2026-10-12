@@ -42,7 +42,7 @@ Karel vroeg — met expliciete verwijzing naar Art. 17 — precies wat de DSA ve
 | | |
 |---|---|
 | Wat de DSA vraagt | De **hoofdfeiten** die tot de beslissing leidden, plus de toegepaste **beleidsbepaling** |
-| Wat YouTube deed | Deelname aan de procedure, een claim van *"carefully reviewed"*, en de **beleidsnaam** — maar nergens een feit of een video |
+| Wat YouTube deed | Reactie in de mailthread van Karel (niet via ACE — zie de precisering in §6), een claim van *"carefully reviewed"*, en de **beleidsnaam** — maar nergens een feit of een video |
 | Wat de gebruiker deed | Precies de Art. 17-conforme vraag stellen, met concrete toelichting en verwijzing naar de norm |
 | Wat YouTube antwoordde | De ongewijzigde tekst van twee maanden eerder |
 
@@ -62,4 +62,6 @@ Twee gevolgen:
 
 ## 6. Correctie op het dossier
 
-MACCHA had in het BIPT-concept en in de hoofdanalyse geschreven dat YouTube de ACE-procedure *"volledig heeft genegeerd en zich bij tweede instantie liet vertegenwoordigen door een default"*. **Dat was onjuist** en is gecorrigeerd. YouTube heeft tweemaal inhoudelijk gereageerd. Het argument wordt daarmee niet zwakker maar sterker, om de reden in §4.
+MACCHA had in het BIPT-concept en in de hoofdanalyse geschreven dat YouTube de ACE-procedure *"volledig heeft genegeerd en zich bij tweede instantie liet vertegenwoordigen door een default"*. **Dat was onjuist** en is gecorrigeerd.
+
+⚠️ **Precisering 12 oktober 2026:** de correctie van 3/10 ging zelf te ver. De twee mails hierboven zijn antwoorden op **Karels eigen** correspondentie (headers `To: karel…`: notice of intent van 24/9/2025 en Art. 17-vraag van 1/10/2025), **niet** op vragen van ACE; de eerste viel zelfs vóór de ODS-indiening van 21/10/2025. Zij bewijzen dus géén deelname aan de ODS-procedure. Wél gedekt: de ACE-beslissingen van 16/12/2025 stellen schriftelijk dat het platform **onvoldoende informatie** verstrekte. Canonieke correctie: [`0-HOOFDANALYSE_oorzaken_en_rangschikking.md`](../../2-YouTube-Policy/2.1-Possible-Faults-\(me\)/0-HOOFDANALYSE_oorzaken_en_rangschikking.md) §3 + wijzigingslog 12/10/2026.

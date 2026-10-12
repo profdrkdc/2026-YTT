@@ -79,6 +79,6 @@ karel.test.special@gmail.com
 
 ## Wachtrij (niet vergeten)
 
-1. Karel leest v2 (Gmail-draft **1451**) → eventuele aanpassingen → **versturen door Karel**.
+1. ~~Karel leest v2 (Gmail-draft **1451**) → eventuele aanpassingen → **versturen door Karel**~~ — ✅ **VERZONDEN 12/10/2026 21:50**, ongewijzigd, bericht-ID 168.
 2. ~~BIPT-draft §5: art. 21(5)-verwijzingen eruit~~ — ✅ afgehandeld 12/10/2026.
-3. €5-betalingen in `1-timeline/2025.10-ODS_case/ACE-transactions.png` (21/10/2025, "in afwachting") ophelderen: van wie, waarvoor, betaald door wie — tot dan niet extern claimen (Art. 21(5) staat nu als verbod in de hoofdanalyse).
+3. ~~€5-betalingen ophelderen~~ — ✅ **afgesloten 12/10/2026** (oordeel Karel: louter administratief of inning via derde betaler; nooit aan Karel aangerekend, dus geen actie). De regel blijft: geen Art. 21(5) claimen in externe correspondentie (geen factuur op naam = geen claim). Slotstand: `0-HOOFDANALYSE…md` §3.
